@@ -7,7 +7,9 @@ using zip() and enumerate()."""
 names = ["Alice", "Bob", "Charlie"]
 ages = [25, 30, 22]
 
-# Your code here
+
+for x, (name, age) in enumerate(zip(names, ages)):
+    print(f"{x+1}. {name} is {age} years old")
 
 # Example Output:
 
