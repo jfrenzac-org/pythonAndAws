@@ -11,15 +11,20 @@
 
 Below 60: "F""
 """
-
+#Almaceno el puntaje ingresado por el usuario
 user_score = int(input("Ingrese el puntaje en una escala de 0 - 100: "))
 
+#Este ciclo se crea para evaluar si el valor ingresado por el usuario es numérico
 try:
     user_score == int(user_score)
+#Con este except manejo los valores no numéricos ingresados por el usuario
 except:
-    print("Solo se pueden introducir números entre 0 - 100 ")   
+    print("Solo se pueden introducir números entre 0 - 100 ") 
+    
+#Evito que el se ingresen puntajes fuera de la escala planteada      
 if user_score > 100 or user_score < 0:
     print("Sólo se pueden introducir números entre 0 - 100 ")
+#Creo una rama por cada una de las posibles opciones
 elif user_score <= 100 and user_score >= 90:
     print(f"La nota correspondiente al puntaje {user_score} es: A")
 elif user_score < 90 and user_score >= 80:
