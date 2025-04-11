@@ -18,3 +18,6 @@ for codigo, fruta, precio in zip(codigos, frutas, precios):
 for codigo in codigos:
     for fruta in frutas:
         inventario[codigo] = fruta
+        ##El código mz01 corresponde a la fruta manzana que tiene precio 2000
+##El código pr01 corresponde a la fruta pera que tiene precio 2000   
+##El código gy01 corresponde a la fruta guayaba que tiene precio 5000

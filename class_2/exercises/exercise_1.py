@@ -12,3 +12,6 @@ print(numeros)
 suma_impares=sum(num for num in numeros if num%2!=0)
 print("La suma de los numeros impares es: ", suma_impares)
 
+suma_pares=sum(num for num in numeros if num%2==0)
+print("La suma de los numeros impares es: ", suma_pares)
+
