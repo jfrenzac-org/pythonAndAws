@@ -13,22 +13,42 @@ until the correct username and password are entered."""
 
 # Your code here
 
-## A partir del diccionario dado, como credenciales predefinidas:
-credentials_user = {
-                    ".alice": ".1234",
-                    ".bob": ".qwerty",
-                    ".carol": ".pass"
+## A partir del diccionario dado, con las credenciales predefinidas:
+
+credenciales_usuario = {
+                    "alice": "1234",
+                    "bob": "qwerty",
+                    "carol": "pass"
 }
 
-while True:
+## Creamos un nuevo diccionario para autenticar cuáles de los usuarios 
+## han validado sus credenciales, mediante un loop while
+
+validacion_credenciales = {}
+
+while len(validacion_credenciales) < len(credenciales_usuario):
+
     username = input("Ingrese su usuario, por favor: ")
     password = input("Ingrese su contraseña, por favor: ")
 
-    if username in credentials_user and credentials_user[username] == password:
-        print("Ingreso exitoso")
-        break
+    if username in credenciales_usuario:
+        if username in validacion_credenciales:
+            print(f"{username} es válido.")
+        elif credenciales_usuario[username] == password:
+            print(f"Welcome, {username}!, ingreso exitoso.")
+
+            validacion_credenciales[username] = True
+        else:
+            print("Contraseña incorrecta, por favor intente de nuevo")
+
     else:
-        print("Sus datos no corresponden, por favor intente de nuevo.")
+        print("Nombre de usuario no encontrado. Inténtalo de nuevo.")
+    print(validacion_credenciales)
+    
+print("Todos los usuarios han sido autenticados.")
+
+       
+        
         
 
 
