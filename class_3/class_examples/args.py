@@ -1,5 +1,5 @@
 # *args
-# Linea 2.5
+# Linea 2
 
 
 def sumar_numeros(*numeros):
