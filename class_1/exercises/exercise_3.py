@@ -11,3 +11,25 @@
 
 Below 60: "F""
 """
+
+
+def grade_on_score(score: str) -> str:
+
+    if score < 60:
+        return "F"
+    elif score <= 69:
+        return "D"
+    elif score <= 79:
+        return "C"
+    elif score <= 89:
+        return "B"
+    else:
+        return "A"
+
+
+if __name__ == "__main__":
+    score = input("Enter a grade betweet 0 and 100: ")
+    if not isinstance(score, int) or score > 100 or score < 0:
+        print("The score must be an integer between 0 and 100")
+    else:
+        print(grade_on_score(int(score)))
