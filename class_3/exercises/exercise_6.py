@@ -5,3 +5,4 @@ Define una función que reciba una lista y un valor, y devuelva cuántas
 veces aparece ese valor en la lista utilizando el método count().
 
 """
+
