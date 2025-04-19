@@ -4,6 +4,8 @@
 
 numero=float(input("Escriba un número: "))
 
+
+
 if(numero==0):
     print("El número es cero")
 elif(numero<0):
