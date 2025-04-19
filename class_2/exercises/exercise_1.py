@@ -3,3 +3,5 @@ Create a program that accepts a list of numbers from the user (comma-separated) 
 sum of only the odd numbers in that list.
 
 Concepts Covered: Lists, for loops, input, print"""
+#hola
+#avance de tareas
