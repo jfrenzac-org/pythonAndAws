@@ -10,7 +10,7 @@ user_input = input("Enter a list of numbers (comma-separated): ")
 # Convert the input string into a list of integers
 number_list = [int(num.strip()) for num in user_input.split(',')]
 
-# Initialize the total to 0
+# Initialise the total to 0
 total = 0
 
 # Iterate through the list of numbers
