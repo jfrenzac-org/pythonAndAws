@@ -4,6 +4,9 @@
 
 import pandas as pd
 
-df = pd.DataFrame()
+serie = pd.Series([10, 20, 30, 40])
 
+df = pd.DataFrame([[10, 20, 30, 40], [20, 30, 40, 50]])
+
+print(serie)
 print(df)
