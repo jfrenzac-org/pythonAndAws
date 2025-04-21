@@ -5,19 +5,16 @@ Define una función que reciba dos listas y las combine en una sola usando
 el método extend(). La función debe retornar la lista resultante.
 
 """
-lista1 = ["Beto", "Isidro", "Victor", "Rodrigo"]
-lista2 = ["Cecilia", "Esther", "Berenice"]
+hermanos = ["Beto", "Isidro", "Victor", "Rodrigo"]
+hermanas = ["Cecilia", "Esther", "Berenice"]
 
-def unir_listas(lista1, lista2):
-    lista1.extend(lista2)
+
+def combinar_listas(hermanos, hermanas):
+    lista_combinada = hermanos.copy()
+    ## para no perder la original se copia la lista 1
+    lista_combinada.extend(hermanas)
     return lista_combinada
 
-resultado = (unir_listas)
+resultado = combinar_listas(hermanos, hermanas)
 
 print(resultado)
-
-##todos_hermanos = mis_hermanos.copy()
-
-## print(todos_hermanos)
-
-
