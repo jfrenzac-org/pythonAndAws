@@ -10,6 +10,6 @@ frase = input("ingresa una frase: ")
 def convierte_a_mayuscula(frase):
     return frase.upper()
 
-frase_2 = frase.upper()
+resultado = frase.upper()
 
-print(frase_2)
+print(resultado)
