@@ -2,6 +2,7 @@
 
 Enunciado:
 Escribe una función que reciba una cadena de texto y devuelva la misma cadena
+<<<<<<< HEAD
 convertida a mayúsculas. No uses print(), la función debe retornar el resultado."""
 
 ## pedimos una frase al usuario.
@@ -13,3 +14,6 @@ def convierte_a_mayuscula(frase):
 resultado = frase.upper()
 
 print(resultado)
+=======
+convertida a mayúsculas. No uses print() dentro de la función. La función debe retornar el resultado."""
+>>>>>>> origin/main
