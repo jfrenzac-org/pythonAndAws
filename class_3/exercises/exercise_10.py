@@ -8,7 +8,10 @@ letra de cada palabra en mayúscula (como en los títulos de libros).
 
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def mayusculas_en_frase(texto: str) -> str:
     palabras = texto.strip().split()
     capitalizadas = [palabra.capitalize() for palabra in palabras]

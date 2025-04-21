@@ -6,7 +6,10 @@ si esa palabra está contenida dentro del texto. La función debe devolver True 
 
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def palabra_en_texto(texto: str, palabra: str) -> bool:
     return palabra in texto
 

@@ -6,3 +6,9 @@ Entrada: ["hola", "mundo", "python"]
 Salida esperada: [4, 5, 6]
 Usa map()
 """
+
+palabras = ["hola", "mundo", "python"]
+
+longitud_palabras = map(lambda x: len(x), palabras)
+
+print(list(longitud_palabras))

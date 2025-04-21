@@ -6,3 +6,9 @@ Entrada: [1, 2, 3, 4]
 Salida esperada: [False, True, False, True]
 Usa map() con lambda.
 """
+
+numeros = [1, 2, 3, 4]
+
+es_par_bool = map(lambda x: True if x % 2 == 0 else False, numeros)
+
+print(list(es_par_bool))

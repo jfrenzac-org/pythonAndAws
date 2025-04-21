@@ -6,7 +6,10 @@ con cada una de sus letras como elementos separados.
 
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def letras_de_palabra(texto: str) -> list:
     return list(texto)
 

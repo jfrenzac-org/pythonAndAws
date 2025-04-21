@@ -7,7 +7,10 @@ Devuelve ese número como resultado.
 
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def contar_vocales(texto: str) -> int:
     vocales = {"a", "e", "i", "o", "u"}  # Esta estructura de datos no la hemos visto, se llama set
     return sum(1 for letra in texto.lower() if letra in vocales)

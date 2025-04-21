@@ -6,7 +6,10 @@ veces aparece ese valor en la lista utilizando el método count().
 
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def contar_elementos(lista: list, valor: any) -> int:
     return lista.count(valor)
 

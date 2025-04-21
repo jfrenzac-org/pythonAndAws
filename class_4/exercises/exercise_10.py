@@ -14,3 +14,15 @@ Salida esperada: ["ANA", "PEDRO"]
 
 Usa filter() para filtrar por edad y map() para transformar los nombres.
 """
+
+lista_diccionarios = [
+    {"nombre": "Ana", "edad": 20},
+    {"nombre": "Luis", "edad": 17},
+    {"nombre": "Pedro", "edad": 25},
+]
+
+nombres_mayuscula = map(
+    lambda x: x.get("nombre").upper(), filter(lambda x: x.get("edad") > 18, lista_diccionarios)
+)
+
+print(list(nombres_mayuscula))

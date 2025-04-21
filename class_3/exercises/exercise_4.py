@@ -3,7 +3,10 @@ Enunciado:
 Crea una función que reciba una frase (string) y devuelva una lista donde
 cada palabra de la frase sea un elemento, usando espacios como separadores."""
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def lista_desde_texto(texto: str) -> list:
     return texto.strip().split()
 

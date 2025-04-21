@@ -5,7 +5,10 @@ Crea una función que reciba una lista y devuelva una nueva lista con los mismos
 elementos pero en orden inverso.
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def invertir_lista(lista: list[any]) -> list:
     lista.sort(reverse=True)
     return lista

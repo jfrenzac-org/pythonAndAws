@@ -6,7 +6,10 @@ el método extend(). La función debe retornar la lista resultante.
 
 """
 
+from utils.exception_handler import exception_handler
 
+
+@exception_handler
 def unir_dos_listas(lista1: list, lista2: list) -> list:
     lista1.extend(lista2)
     return lista1
