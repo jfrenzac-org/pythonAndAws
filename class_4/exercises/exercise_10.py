@@ -14,3 +14,13 @@ Salida esperada: ["ANA", "PEDRO"]
 
 Usa filter() para filtrar por edad y map() para transformar los nombres.
 """
+personas =[
+  {"nombre": "Ana", "edad": 20},
+  {"nombre": "Luis", "edad": 17},
+  {"nombre": "Pedro", "edad": 25}
+]
+
+mayor_edad = filter(lambda persona:  persona["edad"] > 18, personas)
+
+lista_personas = list(map(lambda persona: persona ["nombre"].upper(), mayor_edad))
+print(lista_personas)

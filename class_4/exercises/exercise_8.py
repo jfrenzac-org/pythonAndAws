@@ -5,3 +5,8 @@ Entrada: [5, -1, -7, 2, -3]
 Salida esperada: [-1, -7, -3]
 Usa filter() con lambda.
 """
+
+lista = [5, -1, 7, 2, -3]
+
+negativos = list(filter(lambda x: x<0, lista))
+print(negativos)
