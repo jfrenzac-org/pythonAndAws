@@ -8,5 +8,16 @@ String=input("Escriba una frase ")
 
 Lista=list(String.split(' '))
 
-print(Lista)
+Contador=int(0)
+Dic={}
 
+#print(Lista)
+
+for i in range(len(Lista)):
+    for j in range(len(Lista)):
+        if(Lista[i]==Lista[j]):
+            Contador=Contador+1
+    Dic[Lista[i]]=Contador
+    Contador=0
+
+print(Dic)
