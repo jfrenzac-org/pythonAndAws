@@ -8,10 +8,13 @@ String=input("Escriba una frase ")
 
 Lista=list(String.split(' '))
 
-Contador=int(0)
-Dic={}
+for i in range(len(Lista)):
+    Lista[i]=Lista[i].strip(",.")
 
 #print(Lista)
+
+Contador=int(0)
+Dic={}
 
 for i in range(len(Lista)):
     for j in range(len(Lista)):
