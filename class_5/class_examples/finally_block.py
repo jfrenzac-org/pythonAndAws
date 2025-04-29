@@ -14,8 +14,10 @@ def dividir_dos_numeros(numero1: int, numero2: int) -> int:
 
 
 try:
-    print(dividir_dos_numeros(5, 0))
+    print(dividir_dos_numeros(5, "e2"))
 except ZeroDivisionError:
-    print("No es posible dividir por zero")
-
-print("Estoy aqui!")
+    print("No se puede dividir por cero")
+except TypeError:
+    print("La función solamente acepta números reales")
+finally:
+    print("Terminé mi programa")
