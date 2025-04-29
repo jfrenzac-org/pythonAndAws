@@ -8,14 +8,22 @@ finally:
 
 """
 
+from decorador import exception_handler
 
+
+@exception_handler
 def dividir_dos_numeros(numero1: int, numero2: int) -> int:
     return numero1 / numero2
 
 
-try:
-    print(dividir_dos_numeros(5, 0))
-except ZeroDivisionError:
-    print("No es posible dividir por zero")
+@exception_handler
+def sumar_dos_numeros(numero1: int, numero2: int) -> int:
+    pass
 
-print("Estoy aqui!")
+
+# try:
+#     print(dividir_dos_numeros(5, 0))
+# except ZeroDivisionError:
+#     print("No es posible dividir por zero")
+
+# print("Estoy aqui!")
