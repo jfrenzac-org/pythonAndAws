@@ -1,3 +1,6 @@
+"""Este script se usa para crear una hoja de datos ficticios. En este caso hemos creado un archivo
+csv con 1000 filas y 4 columnas"""
+
 import pandas as pd
 from faker import Faker
 import random
