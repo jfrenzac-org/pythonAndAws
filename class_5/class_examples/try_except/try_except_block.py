@@ -8,7 +8,7 @@ finally:
 
 """
 
-from decorador import exception_handler
+from class_5.class_examples.try_except.decorador import exception_handler
 
 
 @exception_handler
