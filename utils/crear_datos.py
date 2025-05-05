@@ -56,15 +56,31 @@ class CrearDatos:
 
 
 if __name__ == "__main__":
+    producto_categoria = {
+        "Camiseta": "ropa",
+        "Pantalón": "ropa",
+        "Zapatos": "calzado",
+        "Sandalias": "calzado",
+        "Sombrero": "accesorios",
+        "Bolso": "accesorios",
+        "Bufanda": "accesorios",
+        "Chaqueta": "ropa",
+    }
 
-    clientes_spec = {
+    ventas_spec = {
         "ID": ("consecutivo", None),
-        "Nombre": ("faker", "first_name"),
-        "Edad": ("random_int", (18, 70)),
-        "Genero": ("random_choice", ["Masculino", "Femenino"]),
-        "Pais": ("faker", "country"),
+        "Fecha": ("fecha", ("2025-01-01", "2025-12-31")),
+        "Producto": ("random_choice", list(producto_categoria.keys())),
+        "Categoría": (
+            "random_choice",
+            list(set(producto_categoria.values())),
+        ),  # será sobrescrito por el mapping
+        "Cantidad": ("random_int", (1, 5)),
+        "Precio Unitario": ("random_float", (10.0, 100.0)),
     }
 
     generador = CrearDatos(cantidad_filas=1000)
-    generador.crear_datos_ficticios(clientes_spec)
-    generador.crear_csv_file("datos/clientes.csv")
+    generador.crear_datos_ficticios(
+        ventas_spec, mapas_dependencias={"Categoría": producto_categoria}
+    )
+    generador.crear_csv_file("datos/ventas.csv")
