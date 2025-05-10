@@ -1,0 +1,1001 @@
+ID,Fecha,Producto,Categoría,Cantidad,Precio Unitario,Nombre,Edad,Genero,Pais,Ingreso,Grupo Edad,Mes
+0,2025-01-06,Bufanda,ropa,1,32.62,Alexis,57,Femenino,Yemen,32.62,35+,2025-01
+1,2025-05-12,Bufanda,ropa,2,93.76,Emily,36,Masculino,Estonia,187.52,35+,2025-05
+2,2025-04-28,Camiseta,calzado,1,29.7,Jessica,59,Femenino,Saint Pierre and Miquelon,29.7,35+,2025-04
+3,2025-11-26,Chaqueta,ropa,5,25.81,Jake,38,Femenino,South Georgia and the South Sandwich Islands,129.04999999999998,35+,2025-11
+4,2025-12-22,Sandalias,calzado,3,48.31,Angela,52,Masculino,Saint Barthelemy,144.93,35+,2025-12
+5,2025-09-08,Sandalias,accesorios,5,70.61,Jane,20,Femenino,Indonesia,353.05,<25,2025-09
+6,2025-04-08,Bolso,ropa,3,94.44,James,46,Masculino,Yemen,283.32,35+,2025-04
+7,2025-01-11,Camiseta,ropa,3,29.98,Christopher,66,Masculino,Senegal,89.94,35+,2025-01
+8,2025-04-13,Camiseta,accesorios,1,10.83,Deanna,58,Femenino,Netherlands,10.83,35+,2025-04
+9,2025-07-25,Sandalias,ropa,3,34.28,Eric,24,Masculino,Bolivia,102.84,<25,2025-07
+10,2025-12-03,Camiseta,ropa,2,32.4,Alec,61,Femenino,Botswana,64.8,35+,2025-12
+11,2025-10-23,Sombrero,calzado,5,48.28,Aaron,42,Masculino,Slovakia (Slovak Republic),241.4,35+,2025-10
+12,2025-08-31,Pantalón,ropa,4,68.95,Cassandra,22,Femenino,Lao People's Democratic Republic,275.8,<25,2025-08
+13,2025-04-25,Chaqueta,ropa,5,31.52,Keith,61,Femenino,Niger,157.6,35+,2025-04
+14,2025-12-16,Pantalón,calzado,3,83.3,Jessica,37,Masculino,Svalbard & Jan Mayen Islands,249.89999999999998,35+,2025-12
+15,2025-10-23,Pantalón,calzado,5,47.86,Robert,62,Masculino,Congo,239.3,35+,2025-10
+16,2025-09-29,Zapatos,calzado,3,71.59,James,41,Femenino,Liechtenstein,214.77,35+,2025-09
+17,2025-12-29,Chaqueta,accesorios,4,98.95,Desiree,31,Masculino,Russian Federation,395.8,25-34,2025-12
+18,2025-07-29,Sandalias,accesorios,2,75.56,Isaiah,43,Femenino,Falkland Islands (Malvinas),151.12,35+,2025-07
+19,2025-02-22,Sombrero,ropa,4,66.84,Jason,57,Femenino,Germany,267.36,35+,2025-02
+20,2025-07-30,Pantalón,calzado,4,87.28,Bridget,43,Femenino,Spain,349.12,35+,2025-07
+21,2025-11-13,Camiseta,ropa,1,97.96,Melissa,25,Masculino,Hong Kong,97.96,25-34,2025-11
+22,2025-11-20,Bolso,ropa,2,57.74,Matthew,24,Femenino,Chad,115.48,<25,2025-11
+23,2025-10-09,Sandalias,calzado,3,20.9,John,23,Femenino,El Salvador,62.699999999999996,<25,2025-10
+24,2025-12-28,Sombrero,ropa,3,16.87,Karen,66,Masculino,Kuwait,50.61,35+,2025-12
+25,2025-04-21,Zapatos,accesorios,2,30.01,Allison,36,Femenino,Norway,60.02,35+,2025-04
+26,2025-01-07,Camiseta,accesorios,3,49.1,April,29,Femenino,Macao,147.3,25-34,2025-01
+27,2025-09-16,Chaqueta,accesorios,4,68.24,Laura,26,Femenino,Malawi,272.96,25-34,2025-09
+28,2025-12-26,Bufanda,calzado,2,68.88,William,39,Masculino,Reunion,137.76,35+,2025-12
+29,2025-01-14,Chaqueta,calzado,3,28.01,Laura,66,Masculino,Malawi,84.03,35+,2025-01
+30,2025-10-28,Camiseta,calzado,2,88.66,Scott,26,Femenino,Puerto Rico,177.32,25-34,2025-10
+31,2025-11-21,Bolso,calzado,5,97.83,Evan,59,Femenino,United Arab Emirates,489.15,35+,2025-11
+32,2025-05-18,Pantalón,calzado,3,36.89,Bruce,45,Femenino,Togo,110.67,35+,2025-05
+33,2025-10-15,Sandalias,accesorios,1,24.75,Matthew,61,Masculino,Lesotho,24.75,35+,2025-10
+34,2025-01-01,Zapatos,ropa,5,50.13,John,26,Masculino,Saint Kitts and Nevis,250.65,25-34,2025-01
+35,2025-01-29,Camiseta,calzado,1,16.75,Michael,21,Femenino,Bouvet Island (Bouvetoya),16.75,<25,2025-01
+36,2025-10-20,Sandalias,accesorios,2,89.23,Seth,60,Masculino,Panama,178.46,35+,2025-10
+37,2025-02-22,Camiseta,accesorios,3,83.12,Carmen,56,Femenino,Moldova,249.36,35+,2025-02
+38,2025-05-20,Sombrero,calzado,5,65.27,Julie,37,Masculino,Barbados,326.34999999999997,35+,2025-05
+39,2025-03-07,Pantalón,accesorios,2,25.42,Maria,34,Masculino,Cocos (Keeling) Islands,50.84,25-34,2025-03
+40,2025-10-21,Bufanda,accesorios,2,68.34,Paul,69,Masculino,Jamaica,136.68,35+,2025-10
+41,2025-01-02,Sandalias,ropa,4,45.83,Aaron,52,Masculino,Luxembourg,183.32,35+,2025-01
+42,2025-11-25,Bolso,ropa,5,98.71,Austin,27,Masculino,Bosnia and Herzegovina,493.54999999999995,25-34,2025-11
+43,2025-08-13,Sombrero,calzado,1,75.61,Eric,31,Femenino,Cyprus,75.61,25-34,2025-08
+44,2025-09-29,Sandalias,accesorios,2,92.24,Jennifer,41,Femenino,Kenya,184.48,35+,2025-09
+45,2025-03-05,Chaqueta,ropa,1,36.77,Christopher,61,Femenino,Serbia,36.77,35+,2025-03
+46,2025-02-06,Pantalón,calzado,1,63.24,Jessica,42,Masculino,Falkland Islands (Malvinas),63.24,35+,2025-02
+47,2025-11-05,Sandalias,accesorios,5,14.15,Susan,37,Femenino,Macao,70.75,35+,2025-11
+48,2025-06-20,Sombrero,calzado,4,30.69,Sharon,42,Masculino,Israel,122.76,35+,2025-06
+49,2025-12-09,Sandalias,accesorios,3,78.92,Vanessa,39,Masculino,Namibia,236.76,35+,2025-12
+50,2025-10-22,Bolso,calzado,2,46.71,Sean,22,Masculino,Iran,93.42,<25,2025-10
+51,2025-12-05,Pantalón,accesorios,3,77.59,Darrell,28,Masculino,Sri Lanka,232.77,25-34,2025-12
+52,2025-05-04,Bufanda,ropa,1,46.04,Sheri,52,Masculino,Switzerland,46.04,35+,2025-05
+53,2025-12-13,Sombrero,ropa,1,26.66,Alexander,33,Femenino,Mozambique,26.66,25-34,2025-12
+54,2025-09-12,Camiseta,ropa,5,58.05,Joshua,46,Masculino,Colombia,290.25,35+,2025-09
+55,2025-03-15,Zapatos,accesorios,4,63.27,Robert,31,Masculino,Czech Republic,253.08,25-34,2025-03
+56,2025-12-18,Sandalias,ropa,2,78.64,Amy,68,Femenino,Spain,157.28,35+,2025-12
+57,2025-10-17,Camiseta,accesorios,2,37.08,Melissa,42,Masculino,Malta,74.16,35+,2025-10
+58,2025-09-08,Camiseta,ropa,3,48.69,Mary,53,Femenino,Austria,146.07,35+,2025-09
+59,2025-02-11,Sombrero,calzado,2,46.71,Kelly,44,Femenino,Bermuda,93.42,35+,2025-02
+60,2025-02-16,Pantalón,calzado,1,29.58,Anthony,26,Femenino,Grenada,29.58,25-34,2025-02
+61,2025-11-11,Camiseta,accesorios,3,54.59,Monica,46,Femenino,Guam,163.77,35+,2025-11
+62,2025-03-20,Pantalón,calzado,2,59.89,Alyssa,63,Masculino,Estonia,119.78,35+,2025-03
+63,2025-08-05,Sombrero,accesorios,1,44.4,Karen,60,Femenino,Tunisia,44.4,35+,2025-08
+64,2025-08-29,Bufanda,calzado,3,13.05,Theresa,45,Femenino,Trinidad and Tobago,39.150000000000006,35+,2025-08
+65,2025-05-22,Sandalias,ropa,4,23.9,Patricia,70,Femenino,Guyana,95.6,35+,2025-05
+66,2025-09-26,Sandalias,calzado,3,20.95,Elizabeth,51,Masculino,Ukraine,62.849999999999994,35+,2025-09
+67,2025-08-24,Camiseta,calzado,4,19.73,Traci,69,Femenino,Cape Verde,78.92,35+,2025-08
+68,2025-11-07,Bufanda,accesorios,5,30.66,Ronald,62,Masculino,Mongolia,153.3,35+,2025-11
+69,2025-12-21,Sandalias,calzado,4,96.21,Jillian,40,Femenino,Bermuda,384.84,35+,2025-12
+70,2025-08-03,Camiseta,ropa,1,98.0,Christine,38,Femenino,Liberia,98.0,35+,2025-08
+71,2025-03-09,Camiseta,ropa,4,77.6,Daniel,29,Masculino,Nauru,310.4,25-34,2025-03
+72,2025-06-21,Sombrero,accesorios,2,94.14,Alexa,38,Femenino,Colombia,188.28,35+,2025-06
+73,2025-09-15,Pantalón,calzado,5,34.87,Traci,62,Masculino,Indonesia,174.35,35+,2025-09
+74,2025-07-30,Bolso,accesorios,4,36.97,Matthew,58,Masculino,Suriname,147.88,35+,2025-07
+75,2025-10-08,Sandalias,calzado,4,57.32,Nathan,44,Femenino,Bolivia,229.28,35+,2025-10
+76,2025-12-29,Sandalias,accesorios,3,28.23,Jimmy,24,Femenino,Mauritania,84.69,<25,2025-12
+77,2025-11-09,Sandalias,accesorios,5,12.12,Michael,26,Femenino,Saint Kitts and Nevis,60.599999999999994,25-34,2025-11
+78,2025-07-07,Sandalias,calzado,3,32.91,Richard,51,Femenino,Moldova,98.72999999999999,35+,2025-07
+79,2025-03-07,Sandalias,accesorios,2,29.77,Darrell,57,Femenino,Guatemala,59.54,35+,2025-03
+80,2025-10-12,Pantalón,calzado,4,83.85,Whitney,62,Masculino,Mauritania,335.4,35+,2025-10
+81,2025-04-09,Chaqueta,accesorios,3,10.32,Joshua,29,Masculino,Mauritius,30.96,25-34,2025-04
+82,2025-08-07,Zapatos,accesorios,4,68.55,Paul,32,Masculino,Guatemala,274.2,25-34,2025-08
+83,2025-06-13,Bufanda,calzado,2,72.5,Brady,33,Masculino,Antigua and Barbuda,145.0,25-34,2025-06
+84,2025-10-31,Zapatos,accesorios,3,48.21,Carolyn,19,Femenino,United States of America,144.63,<25,2025-10
+85,2025-08-23,Bufanda,calzado,2,44.34,Corey,55,Femenino,China,88.68,35+,2025-08
+86,2025-12-09,Bolso,ropa,4,20.47,Daniel,45,Femenino,Equatorial Guinea,81.88,35+,2025-12
+87,2025-02-23,Chaqueta,calzado,3,69.03,Tamara,66,Masculino,Guadeloupe,207.09,35+,2025-02
+88,2025-02-01,Pantalón,ropa,1,55.69,Patricia,50,Masculino,Philippines,55.69,35+,2025-02
+89,2025-10-27,Zapatos,calzado,2,36.21,Kathleen,24,Femenino,Heard Island and McDonald Islands,72.42,<25,2025-10
+90,2025-03-07,Chaqueta,calzado,4,62.78,Allison,49,Masculino,Israel,251.12,35+,2025-03
+91,2025-05-14,Sombrero,calzado,2,51.07,Craig,61,Femenino,Greece,102.14,35+,2025-05
+92,2025-10-12,Bufanda,calzado,3,70.51,Kelsey,45,Femenino,United Arab Emirates,211.53000000000003,35+,2025-10
+93,2025-12-03,Sandalias,calzado,2,82.56,Eric,53,Masculino,Lao People's Democratic Republic,165.12,35+,2025-12
+94,2025-04-24,Bolso,calzado,4,13.04,Sarah,52,Femenino,Cameroon,52.16,35+,2025-04
+95,2025-02-08,Bufanda,calzado,4,50.39,Melissa,36,Femenino,Monaco,201.56,35+,2025-02
+96,2025-03-29,Camiseta,accesorios,5,83.28,Barbara,53,Masculino,Central African Republic,416.4,35+,2025-03
+97,2025-05-23,Bolso,calzado,5,80.06,Christian,19,Femenino,Qatar,400.3,<25,2025-05
+98,2025-07-22,Pantalón,accesorios,2,67.44,Janet,25,Femenino,Sierra Leone,134.88,25-34,2025-07
+99,2025-07-23,Pantalón,ropa,1,23.14,Sherry,31,Femenino,Cambodia,23.14,25-34,2025-07
+100,2025-11-24,Bufanda,calzado,4,54.5,Charles,52,Masculino,Tokelau,218.0,35+,2025-11
+101,2025-09-30,Zapatos,accesorios,1,100.0,Sara,57,Femenino,Portugal,100.0,35+,2025-09
+102,2025-05-06,Sandalias,ropa,3,66.49,Rita,65,Masculino,Micronesia,199.46999999999997,35+,2025-05
+103,2025-02-04,Camiseta,ropa,4,70.02,Jason,56,Femenino,South Georgia and the South Sandwich Islands,280.08,35+,2025-02
+104,2025-09-22,Zapatos,calzado,5,66.46,Daniel,46,Femenino,Angola,332.29999999999995,35+,2025-09
+105,2025-11-15,Bufanda,calzado,1,75.09,Megan,42,Masculino,Guam,75.09,35+,2025-11
+106,2025-12-26,Camiseta,calzado,1,33.08,James,28,Masculino,Estonia,33.08,25-34,2025-12
+107,2025-05-18,Sombrero,ropa,4,16.13,Justin,23,Masculino,Central African Republic,64.52,<25,2025-05
+108,2025-04-18,Pantalón,calzado,1,88.45,Courtney,37,Masculino,Puerto Rico,88.45,35+,2025-04
+109,2025-06-27,Sandalias,ropa,3,78.47,Anthony,24,Masculino,Ecuador,235.41,<25,2025-06
+110,2025-02-12,Bolso,calzado,4,90.32,Courtney,23,Masculino,Saint Vincent and the Grenadines,361.28,<25,2025-02
+111,2025-07-01,Chaqueta,ropa,4,58.16,Robert,62,Femenino,Suriname,232.64,35+,2025-07
+112,2025-07-31,Pantalón,ropa,4,22.72,Kyle,38,Masculino,Philippines,90.88,35+,2025-07
+113,2025-11-05,Sandalias,accesorios,3,72.74,Jean,68,Masculino,Liechtenstein,218.21999999999997,35+,2025-11
+114,2025-04-16,Bufanda,ropa,2,21.04,Madison,40,Femenino,Chad,42.08,35+,2025-04
+115,2025-07-15,Sandalias,ropa,2,91.31,Eric,66,Femenino,Grenada,182.62,35+,2025-07
+116,2025-03-01,Sandalias,calzado,3,88.16,Vanessa,61,Masculino,Ethiopia,264.48,35+,2025-03
+117,2025-09-01,Camiseta,calzado,2,54.05,Martin,38,Femenino,Switzerland,108.1,35+,2025-09
+118,2025-09-17,Chaqueta,calzado,2,52.23,Karen,36,Femenino,Papua New Guinea,104.46,35+,2025-09
+119,2025-09-14,Pantalón,ropa,4,55.59,David,19,Femenino,Cayman Islands,222.36,<25,2025-09
+120,2025-05-14,Camiseta,ropa,2,66.98,Dylan,65,Femenino,Haiti,133.96,35+,2025-05
+121,2025-04-20,Bolso,calzado,2,67.28,Mark,27,Femenino,Saint Pierre and Miquelon,134.56,25-34,2025-04
+122,2025-11-18,Camiseta,accesorios,5,87.51,Joel,24,Femenino,Kiribati,437.55,<25,2025-11
+123,2025-06-11,Bolso,ropa,2,63.74,Michael,65,Masculino,Mauritius,127.48,35+,2025-06
+124,2025-09-18,Sandalias,ropa,3,38.35,Brendan,46,Femenino,Macao,115.05000000000001,35+,2025-09
+125,2025-10-19,Camiseta,calzado,2,12.63,Christine,19,Masculino,Liberia,25.26,<25,2025-10
+126,2025-04-03,Bolso,accesorios,5,51.08,Elizabeth,27,Masculino,Holy See (Vatican City State),255.39999999999998,25-34,2025-04
+127,2025-04-21,Sandalias,calzado,5,50.06,Hannah,34,Femenino,Serbia,250.3,25-34,2025-04
+128,2025-01-26,Camiseta,ropa,5,16.64,Shirley,59,Masculino,Sudan,83.2,35+,2025-01
+129,2025-06-28,Camiseta,calzado,4,10.92,Justin,31,Masculino,Ghana,43.68,25-34,2025-06
+130,2025-01-11,Sandalias,accesorios,5,57.48,Michelle,46,Femenino,Belgium,287.4,35+,2025-01
+131,2025-07-11,Sandalias,accesorios,5,69.74,Joshua,40,Femenino,Estonia,348.7,35+,2025-07
+132,2025-11-24,Bufanda,calzado,3,60.0,Stephanie,70,Masculino,Svalbard & Jan Mayen Islands,180.0,35+,2025-11
+133,2025-05-26,Pantalón,ropa,4,64.09,Dawn,56,Femenino,Bangladesh,256.36,35+,2025-05
+134,2025-02-18,Sombrero,calzado,4,58.6,Erika,62,Femenino,Bangladesh,234.4,35+,2025-02
+135,2025-08-20,Camiseta,calzado,5,35.14,Veronica,54,Femenino,Iran,175.7,35+,2025-08
+136,2025-04-22,Camiseta,accesorios,1,77.17,David,39,Masculino,Kuwait,77.17,35+,2025-04
+137,2025-07-08,Chaqueta,ropa,5,51.29,Hannah,27,Masculino,Monaco,256.45,25-34,2025-07
+138,2025-04-30,Pantalón,calzado,4,46.03,Robert,31,Femenino,Benin,184.12,25-34,2025-04
+139,2025-08-28,Sombrero,ropa,3,61.69,Ashley,68,Femenino,France,185.07,35+,2025-08
+140,2025-11-09,Zapatos,accesorios,4,42.55,Phillip,21,Femenino,Luxembourg,170.2,<25,2025-11
+141,2025-09-14,Camiseta,ropa,3,22.28,Keith,22,Masculino,Lao People's Democratic Republic,66.84,<25,2025-09
+142,2025-03-09,Zapatos,calzado,1,17.61,Barry,21,Femenino,Puerto Rico,17.61,<25,2025-03
+143,2025-11-14,Sombrero,accesorios,3,74.17,Kimberly,33,Masculino,Norfolk Island,222.51,25-34,2025-11
+144,2025-04-19,Camiseta,ropa,4,56.08,Ashley,33,Femenino,Colombia,224.32,25-34,2025-04
+145,2025-11-06,Camiseta,accesorios,3,46.97,Micheal,40,Masculino,Honduras,140.91,35+,2025-11
+146,2025-10-27,Chaqueta,calzado,5,61.73,Benjamin,33,Masculino,Namibia,308.65,25-34,2025-10
+147,2025-08-17,Sombrero,accesorios,5,95.32,Melissa,62,Femenino,Svalbard & Jan Mayen Islands,476.59999999999997,35+,2025-08
+148,2025-08-04,Pantalón,accesorios,1,11.53,Brendan,58,Femenino,Reunion,11.53,35+,2025-08
+149,2025-03-21,Sombrero,ropa,2,87.64,Phillip,38,Masculino,Colombia,175.28,35+,2025-03
+150,2025-07-21,Camiseta,ropa,5,47.88,Mariah,38,Femenino,Liberia,239.4,35+,2025-07
+151,2025-02-11,Zapatos,accesorios,2,42.55,Michael,36,Femenino,Mali,85.1,35+,2025-02
+152,2025-04-25,Bolso,accesorios,5,16.9,Johnny,70,Masculino,Marshall Islands,84.5,35+,2025-04
+153,2025-02-28,Bolso,accesorios,1,31.38,Bradley,61,Masculino,Oman,31.38,35+,2025-02
+154,2025-12-21,Chaqueta,calzado,4,53.74,Brittany,53,Masculino,Holy See (Vatican City State),214.96,35+,2025-12
+155,2025-01-23,Sombrero,calzado,1,39.52,Terry,23,Masculino,Solomon Islands,39.52,<25,2025-01
+156,2025-04-10,Bolso,ropa,2,19.73,Amber,58,Femenino,Paraguay,39.46,35+,2025-04
+157,2025-12-11,Sombrero,calzado,2,26.93,Duane,44,Masculino,Samoa,53.86,35+,2025-12
+158,2025-10-12,Pantalón,calzado,4,65.83,Anthony,38,Femenino,Slovakia (Slovak Republic),263.32,35+,2025-10
+159,2025-01-12,Chaqueta,ropa,4,97.42,David,22,Femenino,Faroe Islands,389.68,<25,2025-01
+160,2025-11-24,Bolso,ropa,2,48.01,Christopher,53,Masculino,Czech Republic,96.02,35+,2025-11
+161,2025-11-18,Pantalón,ropa,5,12.2,Joseph,56,Femenino,Andorra,61.0,35+,2025-11
+162,2025-12-24,Zapatos,accesorios,3,75.91,Manuel,49,Femenino,Togo,227.73,35+,2025-12
+163,2025-06-07,Bolso,accesorios,5,31.43,Tracy,39,Masculino,Jamaica,157.15,35+,2025-06
+164,2025-08-10,Bufanda,accesorios,3,36.51,Linda,26,Femenino,North Macedonia,109.53,25-34,2025-08
+165,2025-07-25,Sombrero,calzado,4,61.82,Destiny,34,Masculino,Congo,247.28,25-34,2025-07
+166,2025-03-28,Bufanda,calzado,4,42.04,Ronnie,36,Masculino,Cayman Islands,168.16,35+,2025-03
+167,2025-05-07,Zapatos,calzado,5,81.13,Lance,42,Femenino,Maldives,405.65,35+,2025-05
+168,2025-03-08,Sombrero,calzado,5,60.66,Benjamin,19,Femenino,Bahrain,303.29999999999995,<25,2025-03
+169,2025-07-26,Camiseta,calzado,4,80.16,Troy,40,Femenino,Lao People's Democratic Republic,320.64,35+,2025-07
+170,2025-04-11,Chaqueta,ropa,3,36.36,Scott,31,Femenino,France,109.08,25-34,2025-04
+171,2025-09-02,Bolso,ropa,5,58.51,Lisa,63,Masculino,Samoa,292.55,35+,2025-09
+172,2025-06-01,Chaqueta,ropa,4,99.11,Sharon,30,Masculino,Belarus,396.44,25-34,2025-06
+173,2025-05-21,Bolso,ropa,3,82.91,Carly,67,Femenino,United Arab Emirates,248.73,35+,2025-05
+174,2025-06-03,Zapatos,ropa,1,48.73,John,44,Femenino,Saint Vincent and the Grenadines,48.73,35+,2025-06
+175,2025-12-19,Zapatos,ropa,4,91.98,Ashley,58,Femenino,Iceland,367.92,35+,2025-12
+176,2025-08-30,Bolso,calzado,5,56.41,Tina,46,Masculino,Nepal,282.04999999999995,35+,2025-08
+177,2025-04-21,Sombrero,accesorios,4,59.9,Michael,25,Masculino,Saint Kitts and Nevis,239.6,25-34,2025-04
+178,2025-08-29,Bolso,calzado,4,28.19,April,57,Masculino,Mexico,112.76,35+,2025-08
+179,2025-08-07,Zapatos,accesorios,3,42.63,Robert,68,Masculino,Mayotte,127.89000000000001,35+,2025-08
+180,2025-10-01,Pantalón,calzado,4,22.44,Michael,38,Masculino,Jordan,89.76,35+,2025-10
+181,2025-01-17,Camiseta,calzado,5,63.73,Jason,23,Femenino,Benin,318.65,<25,2025-01
+182,2025-11-07,Chaqueta,ropa,5,46.2,Kelli,38,Femenino,Northern Mariana Islands,231.0,35+,2025-11
+183,2025-03-17,Bolso,calzado,1,85.71,Julie,21,Masculino,Central African Republic,85.71,<25,2025-03
+184,2025-09-02,Pantalón,accesorios,5,89.91,Tammy,21,Femenino,China,449.54999999999995,<25,2025-09
+185,2025-10-22,Bolso,ropa,1,90.96,Mary,49,Masculino,Sao Tome and Principe,90.96,35+,2025-10
+186,2025-06-01,Sombrero,ropa,5,53.05,David,24,Femenino,Portugal,265.25,<25,2025-06
+187,2025-05-24,Bolso,calzado,4,58.06,Kendra,60,Masculino,Tanzania,232.24,35+,2025-05
+188,2025-04-14,Bufanda,calzado,3,77.71,Christopher,32,Masculino,Suriname,233.13,25-34,2025-04
+189,2025-05-25,Sandalias,ropa,5,23.68,Blake,21,Masculino,Christmas Island,118.4,<25,2025-05
+190,2025-11-16,Zapatos,ropa,2,70.47,Darrell,40,Femenino,Wallis and Futuna,140.94,35+,2025-11
+191,2025-03-14,Zapatos,accesorios,1,63.41,Amanda,24,Masculino,Congo,63.41,<25,2025-03
+192,2025-11-27,Pantalón,ropa,5,42.83,Margaret,59,Femenino,Egypt,214.14999999999998,35+,2025-11
+193,2025-01-20,Bufanda,accesorios,2,38.13,Elizabeth,38,Femenino,Saint Pierre and Miquelon,76.26,35+,2025-01
+194,2025-01-06,Pantalón,calzado,2,11.15,Wesley,40,Masculino,Botswana,22.3,35+,2025-01
+195,2025-11-19,Bufanda,calzado,1,45.33,Leslie,41,Masculino,Brunei Darussalam,45.33,35+,2025-11
+196,2025-06-13,Sombrero,ropa,3,32.71,Deborah,56,Masculino,United States Virgin Islands,98.13,35+,2025-06
+197,2025-02-23,Chaqueta,calzado,3,27.3,Christine,47,Femenino,San Marino,81.9,35+,2025-02
+198,2025-07-08,Chaqueta,calzado,1,72.61,Amy,20,Femenino,Saint Martin,72.61,<25,2025-07
+199,2025-04-25,Bufanda,accesorios,2,61.75,Mark,33,Femenino,Portugal,123.5,25-34,2025-04
+200,2025-03-22,Sandalias,accesorios,3,70.39,Cindy,65,Masculino,Ethiopia,211.17000000000002,35+,2025-03
+201,2025-10-17,Zapatos,ropa,1,11.04,Traci,61,Masculino,Slovenia,11.04,35+,2025-10
+202,2025-11-30,Bufanda,calzado,2,89.53,Elizabeth,24,Femenino,Congo,179.06,<25,2025-11
+203,2025-08-02,Zapatos,ropa,3,10.14,Amy,29,Masculino,South Georgia and the South Sandwich Islands,30.42,25-34,2025-08
+204,2025-07-19,Bufanda,calzado,4,90.26,Rebecca,54,Femenino,Grenada,361.04,35+,2025-07
+205,2025-11-19,Zapatos,calzado,5,16.98,Joseph,21,Masculino,San Marino,84.9,<25,2025-11
+206,2025-09-23,Camiseta,accesorios,3,45.42,Kevin,27,Femenino,United States Virgin Islands,136.26,25-34,2025-09
+207,2025-06-23,Sombrero,accesorios,4,38.32,Laura,69,Masculino,Mozambique,153.28,35+,2025-06
+208,2025-09-15,Bufanda,accesorios,5,11.94,Thomas,43,Femenino,Kazakhstan,59.699999999999996,35+,2025-09
+209,2025-01-01,Sandalias,accesorios,5,30.08,Jonathan,61,Masculino,Cote d'Ivoire,150.39999999999998,35+,2025-01
+210,2025-05-26,Bufanda,ropa,2,73.43,Jasmine,26,Masculino,Moldova,146.86,25-34,2025-05
+211,2025-10-10,Sandalias,ropa,5,24.32,Brandi,65,Masculino,Finland,121.6,35+,2025-10
+212,2025-06-11,Bolso,accesorios,2,48.96,Nicholas,47,Femenino,Guinea,97.92,35+,2025-06
+213,2025-06-10,Pantalón,calzado,5,84.49,Matthew,56,Femenino,Tunisia,422.45,35+,2025-06
+214,2025-07-29,Pantalón,ropa,2,38.9,Jennifer,70,Masculino,British Virgin Islands,77.8,35+,2025-07
+215,2025-08-13,Sombrero,accesorios,5,39.55,Robert,53,Femenino,United States Minor Outlying Islands,197.75,35+,2025-08
+216,2025-02-06,Chaqueta,ropa,4,31.21,Robert,62,Masculino,Maldives,124.84,35+,2025-02
+217,2025-08-23,Sandalias,calzado,5,13.99,Ashlee,53,Masculino,Australia,69.95,35+,2025-08
+218,2025-05-19,Camiseta,calzado,1,92.65,Grace,65,Masculino,Bahamas,92.65,35+,2025-05
+219,2025-04-22,Pantalón,accesorios,3,44.48,Eric,50,Femenino,Canada,133.44,35+,2025-04
+220,2025-12-17,Pantalón,calzado,1,66.01,Sean,23,Masculino,Gibraltar,66.01,<25,2025-12
+221,2025-06-01,Bolso,ropa,4,65.95,Sarah,22,Masculino,Cape Verde,263.8,<25,2025-06
+222,2025-05-23,Sandalias,calzado,1,58.85,Michael,55,Masculino,Sierra Leone,58.85,35+,2025-05
+223,2025-04-12,Sandalias,ropa,2,62.41,Kenneth,44,Femenino,New Zealand,124.82,35+,2025-04
+224,2025-09-09,Zapatos,accesorios,2,24.33,John,69,Masculino,Nicaragua,48.66,35+,2025-09
+225,2025-12-21,Pantalón,accesorios,2,13.04,Travis,44,Masculino,Myanmar,26.08,35+,2025-12
+226,2025-08-02,Zapatos,accesorios,4,32.26,Dennis,25,Masculino,Swaziland,129.04,25-34,2025-08
+227,2025-10-11,Sandalias,accesorios,5,49.22,Angela,22,Femenino,Brazil,246.1,<25,2025-10
+228,2025-08-08,Camiseta,ropa,1,10.35,Michele,46,Femenino,Djibouti,10.35,35+,2025-08
+229,2025-06-04,Bolso,ropa,5,97.67,Chad,63,Masculino,Pitcairn Islands,488.35,35+,2025-06
+230,2025-05-17,Bolso,accesorios,1,89.81,Trevor,29,Masculino,Japan,89.81,25-34,2025-05
+231,2025-09-10,Sombrero,ropa,4,50.72,Edward,20,Masculino,Saint Vincent and the Grenadines,202.88,<25,2025-09
+232,2025-07-03,Sandalias,accesorios,3,98.75,Robert,68,Masculino,Honduras,296.25,35+,2025-07
+233,2025-05-09,Sandalias,ropa,4,55.63,Brian,20,Masculino,Cote d'Ivoire,222.52,<25,2025-05
+234,2025-07-17,Sombrero,accesorios,5,48.96,Andrea,56,Masculino,Sao Tome and Principe,244.8,35+,2025-07
+235,2025-10-04,Camiseta,accesorios,3,55.62,Jennifer,55,Femenino,Australia,166.85999999999999,35+,2025-10
+236,2025-03-25,Bufanda,calzado,4,72.08,Karen,61,Masculino,Seychelles,288.32,35+,2025-03
+237,2025-08-07,Bufanda,accesorios,2,74.1,Henry,24,Masculino,Liechtenstein,148.2,<25,2025-08
+238,2025-04-26,Pantalón,calzado,3,80.27,Douglas,70,Masculino,French Guiana,240.81,35+,2025-04
+239,2025-02-03,Sandalias,calzado,2,98.9,Michael,27,Femenino,Tajikistan,197.8,25-34,2025-02
+240,2025-12-13,Bufanda,ropa,5,71.45,Cathy,26,Masculino,Saint Helena,357.25,25-34,2025-12
+241,2025-09-25,Bufanda,calzado,3,17.82,Jennifer,30,Masculino,Ukraine,53.46,25-34,2025-09
+242,2025-08-04,Bufanda,ropa,5,99.78,Judith,43,Masculino,Colombia,498.9,35+,2025-08
+243,2025-05-30,Sandalias,calzado,3,83.61,Robert,48,Femenino,Nicaragua,250.82999999999998,35+,2025-05
+244,2025-06-14,Sombrero,ropa,5,32.94,Brooke,63,Femenino,Palau,164.7,35+,2025-06
+245,2025-06-12,Bolso,calzado,2,77.63,Chris,30,Masculino,Greece,155.26,25-34,2025-06
+246,2025-03-09,Zapatos,accesorios,4,75.39,Amy,38,Femenino,Lao People's Democratic Republic,301.56,35+,2025-03
+247,2025-01-04,Camiseta,calzado,5,56.75,Kristina,54,Masculino,Saint Vincent and the Grenadines,283.75,35+,2025-01
+248,2025-06-08,Pantalón,calzado,4,27.64,Charles,64,Femenino,Cote d'Ivoire,110.56,35+,2025-06
+249,2025-06-20,Bufanda,accesorios,2,41.5,Dale,43,Femenino,Mongolia,83.0,35+,2025-06
+250,2025-12-04,Sandalias,accesorios,4,23.87,Keith,42,Masculino,British Virgin Islands,95.48,35+,2025-12
+251,2025-08-31,Pantalón,calzado,3,20.61,Stephanie,51,Femenino,Guyana,61.83,35+,2025-08
+252,2025-03-24,Zapatos,accesorios,3,11.18,Kevin,36,Femenino,China,33.54,35+,2025-03
+253,2025-06-04,Pantalón,calzado,1,17.63,Erika,69,Femenino,South Georgia and the South Sandwich Islands,17.63,35+,2025-06
+254,2025-01-07,Bolso,ropa,4,42.17,Taylor,59,Masculino,Latvia,168.68,35+,2025-01
+255,2025-09-09,Chaqueta,calzado,4,67.09,Jessica,57,Masculino,Cameroon,268.36,35+,2025-09
+256,2025-05-13,Chaqueta,ropa,3,74.72,Alexander,18,Masculino,Ghana,224.16,<25,2025-05
+257,2025-12-13,Sombrero,accesorios,5,96.96,Brenda,59,Masculino,Mayotte,484.79999999999995,35+,2025-12
+258,2025-05-09,Sombrero,calzado,1,63.01,Monique,29,Femenino,Poland,63.01,25-34,2025-05
+259,2025-03-02,Zapatos,accesorios,1,42.98,Kimberly,36,Masculino,Saint Barthelemy,42.98,35+,2025-03
+260,2025-01-30,Bufanda,ropa,3,97.75,Ryan,41,Masculino,Gibraltar,293.25,35+,2025-01
+261,2025-10-20,Pantalón,accesorios,3,33.15,Charles,55,Masculino,Singapore,99.44999999999999,35+,2025-10
+262,2025-08-13,Sandalias,calzado,5,51.71,Emily,26,Masculino,Svalbard & Jan Mayen Islands,258.55,25-34,2025-08
+263,2025-12-25,Pantalón,ropa,3,28.43,David,61,Masculino,Turkey,85.28999999999999,35+,2025-12
+264,2025-07-07,Chaqueta,calzado,3,92.25,Jose,30,Masculino,Uzbekistan,276.75,25-34,2025-07
+265,2025-07-11,Bolso,calzado,4,63.64,Jennifer,42,Femenino,Hungary,254.56,35+,2025-07
+266,2025-05-23,Sandalias,calzado,1,22.89,Justin,27,Femenino,Lesotho,22.89,25-34,2025-05
+267,2025-11-12,Pantalón,calzado,5,98.25,Michael,23,Masculino,Chile,491.25,<25,2025-11
+268,2025-03-01,Sandalias,ropa,5,48.16,Matthew,37,Femenino,Burundi,240.79999999999998,35+,2025-03
+269,2025-10-18,Camiseta,ropa,2,45.24,Thomas,68,Masculino,Andorra,90.48,35+,2025-10
+270,2025-11-15,Pantalón,calzado,5,68.84,Paul,20,Masculino,Isle of Man,344.20000000000005,<25,2025-11
+271,2025-12-19,Sandalias,calzado,3,12.21,Marc,62,Masculino,Dominican Republic,36.63,35+,2025-12
+272,2025-03-05,Bufanda,ropa,2,42.98,Robert,46,Masculino,Djibouti,85.96,35+,2025-03
+273,2025-08-20,Bufanda,ropa,5,80.21,Samuel,29,Femenino,Wallis and Futuna,401.04999999999995,25-34,2025-08
+274,2025-10-18,Sandalias,ropa,5,13.17,Deborah,45,Masculino,Nicaragua,65.85,35+,2025-10
+275,2025-05-15,Sombrero,calzado,1,45.91,Jacob,53,Masculino,Canada,45.91,35+,2025-05
+276,2025-03-10,Pantalón,calzado,1,49.73,Mark,63,Masculino,Kyrgyz Republic,49.73,35+,2025-03
+277,2025-08-20,Sandalias,calzado,4,50.11,Christopher,36,Masculino,Saint Kitts and Nevis,200.44,35+,2025-08
+278,2025-11-22,Bufanda,accesorios,2,80.29,Brent,66,Femenino,Mongolia,160.58,35+,2025-11
+279,2025-07-31,Zapatos,accesorios,5,50.47,Michael,23,Femenino,Madagascar,252.35,<25,2025-07
+280,2025-06-01,Bufanda,accesorios,4,15.8,Tammy,41,Masculino,Nicaragua,63.2,35+,2025-06
+281,2025-12-05,Chaqueta,accesorios,4,25.78,Victoria,23,Masculino,Nigeria,103.12,<25,2025-12
+282,2025-10-31,Zapatos,ropa,4,28.97,Pamela,41,Masculino,Peru,115.88,35+,2025-10
+283,2025-12-23,Bolso,accesorios,1,84.0,Jose,38,Masculino,Israel,84.0,35+,2025-12
+284,2025-02-10,Sombrero,accesorios,2,96.16,Jonathan,52,Femenino,Aruba,192.32,35+,2025-02
+285,2025-05-30,Chaqueta,calzado,4,11.96,John,42,Femenino,Cambodia,47.84,35+,2025-05
+286,2025-04-20,Sombrero,accesorios,5,31.79,Katherine,28,Masculino,Kiribati,158.95,25-34,2025-04
+287,2025-03-06,Sombrero,accesorios,3,73.87,Timothy,62,Femenino,Yemen,221.61,35+,2025-03
+288,2025-03-13,Chaqueta,ropa,3,61.68,Patrick,64,Masculino,Greece,185.04,35+,2025-03
+289,2025-05-29,Sombrero,ropa,5,48.77,Kevin,25,Masculino,American Samoa,243.85000000000002,25-34,2025-05
+290,2025-07-19,Camiseta,ropa,5,69.88,Anthony,66,Femenino,Burundi,349.4,35+,2025-07
+291,2025-09-21,Sandalias,calzado,5,31.39,Holly,59,Masculino,Martinique,156.95,35+,2025-09
+292,2025-09-26,Pantalón,calzado,1,18.45,Philip,35,Masculino,Angola,18.45,25-34,2025-09
+293,2025-07-17,Pantalón,calzado,2,45.55,Jose,34,Masculino,Luxembourg,91.1,25-34,2025-07
+294,2025-09-29,Camiseta,accesorios,4,11.63,Katherine,24,Femenino,Vanuatu,46.52,<25,2025-09
+295,2025-12-15,Sombrero,calzado,2,67.78,Jessica,32,Masculino,Bosnia and Herzegovina,135.56,25-34,2025-12
+296,2025-12-05,Camiseta,calzado,1,60.52,Jody,69,Masculino,Gabon,60.52,35+,2025-12
+297,2025-05-18,Pantalón,accesorios,3,28.97,Bruce,69,Masculino,Puerto Rico,86.91,35+,2025-05
+298,2025-12-27,Bolso,ropa,4,39.36,Sean,57,Femenino,Germany,157.44,35+,2025-12
+299,2025-12-19,Sombrero,ropa,2,42.35,Tiffany,40,Masculino,Netherlands,84.7,35+,2025-12
+300,2025-05-02,Camiseta,accesorios,4,23.14,Steve,52,Femenino,Saint Barthelemy,92.56,35+,2025-05
+301,2025-11-10,Zapatos,calzado,1,63.53,George,41,Masculino,Ghana,63.53,35+,2025-11
+302,2025-01-18,Chaqueta,accesorios,4,25.54,Daniel,62,Femenino,Honduras,102.16,35+,2025-01
+303,2025-01-07,Pantalón,accesorios,1,64.64,Chad,67,Femenino,Malawi,64.64,35+,2025-01
+304,2025-07-21,Chaqueta,calzado,1,68.85,Dustin,46,Femenino,Spain,68.85,35+,2025-07
+305,2025-09-12,Zapatos,calzado,1,68.75,Craig,29,Femenino,Costa Rica,68.75,25-34,2025-09
+306,2025-12-02,Camiseta,calzado,4,13.62,Derek,67,Masculino,Kazakhstan,54.48,35+,2025-12
+307,2025-05-03,Chaqueta,calzado,1,71.74,Brett,28,Masculino,Kyrgyz Republic,71.74,25-34,2025-05
+308,2025-08-04,Bolso,accesorios,3,49.32,Sara,31,Femenino,Iceland,147.96,25-34,2025-08
+309,2025-02-10,Sandalias,accesorios,1,95.21,Jeffery,33,Femenino,Switzerland,95.21,25-34,2025-02
+310,2025-11-09,Bolso,ropa,2,12.17,Jennifer,46,Masculino,Austria,24.34,35+,2025-11
+311,2025-06-29,Zapatos,ropa,2,92.43,Bryan,57,Masculino,North Macedonia,184.86,35+,2025-06
+312,2025-02-17,Camiseta,calzado,1,96.51,Mark,47,Masculino,Canada,96.51,35+,2025-02
+313,2025-05-22,Bolso,ropa,2,16.68,Tony,21,Masculino,Spain,33.36,<25,2025-05
+314,2025-09-16,Bolso,calzado,2,40.13,Gregory,60,Masculino,South Africa,80.26,35+,2025-09
+315,2025-02-11,Sandalias,accesorios,5,84.78,Danielle,21,Masculino,Congo,423.9,<25,2025-02
+316,2025-12-13,Bufanda,calzado,4,74.16,Anthony,68,Femenino,Niue,296.64,35+,2025-12
+317,2025-05-11,Sandalias,accesorios,2,25.13,Phillip,21,Masculino,Macao,50.26,<25,2025-05
+318,2025-07-25,Sandalias,accesorios,5,71.97,Eric,45,Femenino,Saint Martin,359.85,35+,2025-07
+319,2025-04-23,Bolso,ropa,1,40.96,Ronald,47,Femenino,Oman,40.96,35+,2025-04
+320,2025-02-09,Chaqueta,accesorios,3,23.14,Steven,26,Femenino,Albania,69.42,25-34,2025-02
+321,2025-11-02,Sombrero,calzado,4,42.15,Austin,58,Masculino,Timor-Leste,168.6,35+,2025-11
+322,2025-09-18,Chaqueta,ropa,2,81.71,Beth,56,Masculino,Cameroon,163.42,35+,2025-09
+323,2025-03-23,Chaqueta,ropa,2,27.81,Jose,36,Masculino,Guam,55.62,35+,2025-03
+324,2025-06-18,Sandalias,accesorios,2,59.23,Mary,65,Femenino,Turkey,118.46,35+,2025-06
+325,2025-04-07,Zapatos,accesorios,2,92.54,Douglas,60,Femenino,Luxembourg,185.08,35+,2025-04
+326,2025-10-12,Bolso,calzado,5,75.37,Stephanie,69,Masculino,Ethiopia,376.85,35+,2025-10
+327,2025-03-16,Bolso,calzado,1,14.76,William,33,Femenino,Jersey,14.76,25-34,2025-03
+328,2025-11-08,Camiseta,calzado,3,50.47,Robin,56,Masculino,Saudi Arabia,151.41,35+,2025-11
+329,2025-12-12,Bolso,calzado,4,85.2,Johnny,38,Femenino,Saint Vincent and the Grenadines,340.8,35+,2025-12
+330,2025-04-19,Pantalón,calzado,4,82.71,Jonathan,56,Masculino,French Guiana,330.84,35+,2025-04
+331,2025-08-10,Chaqueta,calzado,4,11.46,Steven,22,Femenino,Wallis and Futuna,45.84,<25,2025-08
+332,2025-10-25,Chaqueta,ropa,2,60.93,Sarah,23,Femenino,Comoros,121.86,<25,2025-10
+333,2025-10-01,Chaqueta,ropa,3,75.71,Anthony,20,Femenino,Singapore,227.13,<25,2025-10
+334,2025-06-04,Pantalón,calzado,1,45.33,Brian,57,Femenino,Indonesia,45.33,35+,2025-06
+335,2025-01-14,Bolso,accesorios,1,13.33,Christian,40,Masculino,Albania,13.33,35+,2025-01
+336,2025-05-03,Chaqueta,calzado,5,70.43,Jessica,42,Masculino,Falkland Islands (Malvinas),352.15000000000003,35+,2025-05
+337,2025-05-22,Pantalón,ropa,4,14.63,Jennifer,20,Masculino,Norway,58.52,<25,2025-05
+338,2025-03-10,Bolso,calzado,1,55.44,Angela,49,Femenino,Sierra Leone,55.44,35+,2025-03
+339,2025-07-18,Chaqueta,accesorios,1,30.55,Blake,64,Masculino,Croatia,30.55,35+,2025-07
+340,2025-08-26,Bufanda,accesorios,1,43.27,Nicholas,57,Masculino,Palau,43.27,35+,2025-08
+341,2025-12-09,Sandalias,ropa,4,89.26,Crystal,39,Femenino,Faroe Islands,357.04,35+,2025-12
+342,2025-02-13,Bufanda,accesorios,3,80.7,Michelle,42,Masculino,Yemen,242.10000000000002,35+,2025-02
+343,2025-03-09,Chaqueta,calzado,3,83.54,Richard,57,Masculino,Albania,250.62,35+,2025-03
+344,2025-02-09,Zapatos,ropa,4,80.17,Nathan,28,Masculino,San Marino,320.68,25-34,2025-02
+345,2025-07-09,Bolso,accesorios,3,25.19,Mary,43,Femenino,Moldova,75.57000000000001,35+,2025-07
+346,2025-12-13,Sandalias,ropa,4,77.44,Amber,67,Femenino,Malawi,309.76,35+,2025-12
+347,2025-07-01,Sandalias,calzado,2,59.44,Mary,39,Masculino,Italy,118.88,35+,2025-07
+348,2025-01-05,Sandalias,accesorios,1,82.6,John,46,Masculino,Chad,82.6,35+,2025-01
+349,2025-07-19,Bolso,accesorios,3,29.08,Jacqueline,25,Femenino,Korea,87.24,25-34,2025-07
+350,2025-05-30,Pantalón,calzado,2,87.46,Shelby,36,Femenino,Marshall Islands,174.92,35+,2025-05
+351,2025-08-22,Camiseta,calzado,1,21.09,Kelly,53,Femenino,Senegal,21.09,35+,2025-08
+352,2025-11-13,Chaqueta,calzado,5,81.21,Lauren,64,Masculino,Puerto Rico,406.04999999999995,35+,2025-11
+353,2025-05-27,Sandalias,accesorios,1,47.88,Kelly,51,Masculino,Central African Republic,47.88,35+,2025-05
+354,2025-12-25,Sombrero,accesorios,5,45.69,Richard,67,Femenino,Gabon,228.45,35+,2025-12
+355,2025-06-30,Camiseta,accesorios,4,79.75,Christopher,26,Masculino,Marshall Islands,319.0,25-34,2025-06
+356,2025-08-15,Sandalias,ropa,5,38.96,Rebecca,63,Masculino,Cyprus,194.8,35+,2025-08
+357,2025-11-17,Pantalón,accesorios,1,47.06,Lisa,44,Femenino,Saint Helena,47.06,35+,2025-11
+358,2025-12-14,Chaqueta,accesorios,4,75.05,Teresa,37,Masculino,Oman,300.2,35+,2025-12
+359,2025-11-19,Chaqueta,ropa,4,29.62,Chad,56,Femenino,New Zealand,118.48,35+,2025-11
+360,2025-08-05,Camiseta,ropa,1,80.27,Aaron,20,Masculino,Sri Lanka,80.27,<25,2025-08
+361,2025-07-29,Sombrero,accesorios,4,70.46,Ricardo,18,Femenino,Palau,281.84,<25,2025-07
+362,2025-12-15,Bolso,ropa,4,65.71,Mary,54,Femenino,Madagascar,262.84,35+,2025-12
+363,2025-11-13,Sandalias,calzado,1,96.14,Andrew,43,Femenino,Kuwait,96.14,35+,2025-11
+364,2025-08-14,Camiseta,accesorios,3,33.9,Deborah,40,Femenino,Gambia,101.69999999999999,35+,2025-08
+365,2025-10-25,Bufanda,accesorios,5,42.08,Cindy,63,Masculino,Libyan Arab Jamahiriya,210.39999999999998,35+,2025-10
+366,2025-07-22,Bolso,ropa,1,89.61,Karen,36,Femenino,Uganda,89.61,35+,2025-07
+367,2025-01-12,Bolso,ropa,5,22.72,John,34,Femenino,Cote d'Ivoire,113.6,25-34,2025-01
+368,2025-05-10,Sombrero,accesorios,1,83.98,Jennifer,69,Masculino,Yemen,83.98,35+,2025-05
+369,2025-03-08,Bolso,ropa,5,96.76,Anthony,25,Femenino,Ghana,483.8,25-34,2025-03
+370,2025-12-29,Sandalias,ropa,2,32.69,Joseph,67,Masculino,Congo,65.38,35+,2025-12
+371,2025-09-22,Chaqueta,accesorios,3,74.61,Jessica,27,Masculino,Chad,223.82999999999998,25-34,2025-09
+372,2025-06-13,Sandalias,calzado,1,64.24,Chris,55,Masculino,Saudi Arabia,64.24,35+,2025-06
+373,2025-04-09,Bolso,calzado,1,32.6,Peter,48,Femenino,Micronesia,32.6,35+,2025-04
+374,2025-10-31,Zapatos,calzado,3,46.13,Megan,36,Masculino,South Africa,138.39000000000001,35+,2025-10
+375,2025-05-03,Bolso,calzado,5,34.98,Teresa,45,Masculino,Ethiopia,174.89999999999998,35+,2025-05
+376,2025-01-10,Pantalón,accesorios,1,41.98,Phillip,70,Femenino,Norway,41.98,35+,2025-01
+377,2025-06-21,Bufanda,ropa,2,27.28,Randy,53,Masculino,Lao People's Democratic Republic,54.56,35+,2025-06
+378,2025-01-04,Zapatos,calzado,3,17.09,Stanley,58,Masculino,Belarus,51.269999999999996,35+,2025-01
+379,2025-06-23,Bufanda,accesorios,3,71.41,Scott,46,Femenino,Tunisia,214.23,35+,2025-06
+380,2025-01-13,Camiseta,ropa,3,56.53,Jonathan,30,Femenino,Israel,169.59,25-34,2025-01
+381,2025-10-08,Camiseta,ropa,4,41.84,Emily,53,Femenino,Niger,167.36,35+,2025-10
+382,2025-03-01,Bufanda,accesorios,3,62.92,Rachael,21,Masculino,Malawi,188.76,<25,2025-03
+383,2025-06-06,Zapatos,accesorios,4,26.44,Wayne,62,Masculino,Belarus,105.76,35+,2025-06
+384,2025-03-07,Bufanda,ropa,1,54.38,Alexander,62,Masculino,Guinea,54.38,35+,2025-03
+385,2025-08-23,Sandalias,accesorios,1,27.3,Heather,52,Masculino,Honduras,27.3,35+,2025-08
+386,2025-08-13,Pantalón,accesorios,2,22.01,Joseph,43,Femenino,Saint Martin,44.02,35+,2025-08
+387,2025-02-19,Chaqueta,ropa,4,92.45,Jessica,60,Masculino,Macao,369.8,35+,2025-02
+388,2025-07-19,Zapatos,calzado,5,59.31,John,65,Masculino,Chile,296.55,35+,2025-07
+389,2025-06-29,Sandalias,ropa,5,40.95,Michael,45,Femenino,Saint Helena,204.75,35+,2025-06
+390,2025-11-03,Zapatos,calzado,2,76.97,Zachary,68,Femenino,Yemen,153.94,35+,2025-11
+391,2025-02-01,Chaqueta,ropa,5,97.47,Matthew,70,Masculino,Slovenia,487.35,35+,2025-02
+392,2025-04-18,Zapatos,calzado,4,16.04,Rose,66,Masculino,Seychelles,64.16,35+,2025-04
+393,2025-12-10,Chaqueta,calzado,4,23.9,Jonathan,63,Femenino,Falkland Islands (Malvinas),95.6,35+,2025-12
+394,2025-10-24,Bolso,accesorios,1,38.66,Bradley,40,Femenino,Philippines,38.66,35+,2025-10
+395,2025-03-24,Camiseta,accesorios,4,97.5,Jasmine,36,Masculino,French Southern Territories,390.0,35+,2025-03
+396,2025-04-12,Camiseta,accesorios,1,63.18,Jennifer,39,Masculino,Sri Lanka,63.18,35+,2025-04
+397,2025-10-05,Camiseta,ropa,5,83.55,Katherine,41,Masculino,Singapore,417.75,35+,2025-10
+398,2025-07-07,Bolso,ropa,1,21.77,Evan,47,Femenino,Congo,21.77,35+,2025-07
+399,2025-01-30,Chaqueta,ropa,2,18.99,Ryan,62,Femenino,Hungary,37.98,35+,2025-01
+400,2025-02-02,Bolso,accesorios,5,99.7,Ryan,63,Femenino,Isle of Man,498.5,35+,2025-02
+401,2025-03-14,Zapatos,ropa,3,91.12,Lisa,51,Masculino,Cambodia,273.36,35+,2025-03
+402,2025-10-15,Bufanda,ropa,3,45.81,Peter,69,Masculino,Greenland,137.43,35+,2025-10
+403,2025-11-25,Chaqueta,calzado,5,52.53,Alexandra,33,Femenino,Niger,262.65,25-34,2025-11
+404,2025-10-29,Chaqueta,accesorios,3,36.8,Katherine,31,Masculino,Lao People's Democratic Republic,110.39999999999999,25-34,2025-10
+405,2025-05-07,Zapatos,ropa,5,66.99,Nicole,65,Masculino,Svalbard & Jan Mayen Islands,334.95,35+,2025-05
+406,2025-10-11,Sandalias,accesorios,1,20.05,Chad,64,Masculino,Guernsey,20.05,35+,2025-10
+407,2025-10-13,Bolso,ropa,4,97.03,Teresa,60,Masculino,Hong Kong,388.12,35+,2025-10
+408,2025-04-30,Bolso,calzado,2,97.98,Bradley,48,Femenino,Bulgaria,195.96,35+,2025-04
+409,2025-03-20,Camiseta,calzado,1,33.68,Michael,50,Femenino,Lithuania,33.68,35+,2025-03
+410,2025-08-04,Pantalón,calzado,2,16.26,Jose,19,Masculino,Ecuador,32.52,<25,2025-08
+411,2025-01-26,Zapatos,calzado,5,20.49,Tim,18,Femenino,Uganda,102.44999999999999,<25,2025-01
+412,2025-12-06,Sandalias,calzado,3,95.3,David,62,Masculino,Guinea-Bissau,285.9,35+,2025-12
+413,2025-01-21,Bufanda,accesorios,2,89.68,Christopher,62,Femenino,South Georgia and the South Sandwich Islands,179.36,35+,2025-01
+414,2025-01-09,Sandalias,ropa,3,33.14,Kyle,44,Masculino,Sao Tome and Principe,99.42,35+,2025-01
+415,2025-12-04,Bufanda,accesorios,4,46.38,Melissa,70,Masculino,Mozambique,185.52,35+,2025-12
+416,2025-07-26,Camiseta,calzado,5,97.58,Cassandra,56,Masculino,Armenia,487.9,35+,2025-07
+417,2025-02-05,Sandalias,ropa,5,33.02,Kelsey,56,Femenino,Netherlands Antilles,165.10000000000002,35+,2025-02
+418,2025-04-15,Sombrero,accesorios,1,77.47,Michael,31,Femenino,Brunei Darussalam,77.47,25-34,2025-04
+419,2025-05-23,Sombrero,ropa,5,14.77,Larry,63,Masculino,Argentina,73.85,35+,2025-05
+420,2025-04-22,Bufanda,ropa,1,11.97,Melissa,26,Femenino,Latvia,11.97,25-34,2025-04
+421,2025-08-21,Sombrero,calzado,3,65.57,Richard,63,Femenino,Montserrat,196.70999999999998,35+,2025-08
+422,2025-05-21,Chaqueta,calzado,4,28.83,Kent,34,Masculino,Mauritania,115.32,25-34,2025-05
+423,2025-07-25,Chaqueta,ropa,2,74.61,Sara,30,Femenino,Anguilla,149.22,25-34,2025-07
+424,2025-12-30,Pantalón,accesorios,2,33.89,Jill,42,Masculino,Maldives,67.78,35+,2025-12
+425,2025-12-28,Zapatos,ropa,1,26.48,Laura,70,Masculino,United States Minor Outlying Islands,26.48,35+,2025-12
+426,2025-09-03,Sandalias,calzado,5,19.92,Luis,29,Femenino,Isle of Man,99.60000000000001,25-34,2025-09
+427,2025-10-24,Sandalias,ropa,5,88.92,Eric,62,Femenino,French Polynesia,444.6,35+,2025-10
+428,2025-05-30,Sandalias,calzado,4,52.62,Robin,36,Femenino,United States Minor Outlying Islands,210.48,35+,2025-05
+429,2025-02-26,Zapatos,ropa,4,99.87,Rachel,46,Femenino,Bahrain,399.48,35+,2025-02
+430,2025-05-20,Bufanda,ropa,3,96.06,Carla,56,Femenino,Saint Helena,288.18,35+,2025-05
+431,2025-07-01,Bufanda,accesorios,4,47.9,Russell,30,Femenino,Saint Kitts and Nevis,191.6,25-34,2025-07
+432,2025-11-14,Sandalias,accesorios,2,72.88,Catherine,51,Masculino,Jersey,145.76,35+,2025-11
+433,2025-02-25,Bufanda,accesorios,1,70.14,Sally,27,Femenino,Italy,70.14,25-34,2025-02
+434,2025-08-31,Sandalias,ropa,3,55.46,David,37,Masculino,Sri Lanka,166.38,35+,2025-08
+435,2025-06-13,Bufanda,accesorios,1,68.31,Nicholas,55,Femenino,Central African Republic,68.31,35+,2025-06
+436,2025-04-18,Zapatos,calzado,4,24.84,Jason,66,Masculino,Finland,99.36,35+,2025-04
+437,2025-08-05,Camiseta,calzado,2,23.05,David,30,Femenino,Turkmenistan,46.1,25-34,2025-08
+438,2025-07-29,Bufanda,accesorios,1,92.15,Tamara,63,Masculino,Tuvalu,92.15,35+,2025-07
+439,2025-05-21,Sandalias,accesorios,2,82.53,Robert,60,Masculino,French Polynesia,165.06,35+,2025-05
+440,2025-07-21,Zapatos,calzado,5,58.55,Melissa,19,Masculino,Lao People's Democratic Republic,292.75,<25,2025-07
+441,2025-11-14,Bufanda,calzado,2,21.02,Stanley,36,Femenino,Palestinian Territory,42.04,35+,2025-11
+442,2025-06-27,Sandalias,ropa,2,62.37,Nicole,43,Femenino,Belize,124.74,35+,2025-06
+443,2025-03-01,Chaqueta,calzado,3,23.8,Megan,45,Masculino,Grenada,71.4,35+,2025-03
+444,2025-06-12,Chaqueta,ropa,4,23.75,Michele,66,Masculino,Bolivia,95.0,35+,2025-06
+445,2025-11-08,Sombrero,calzado,2,79.51,Robert,20,Femenino,Slovakia (Slovak Republic),159.02,<25,2025-11
+446,2025-04-10,Pantalón,accesorios,3,33.2,Ronald,28,Femenino,Czech Republic,99.60000000000001,25-34,2025-04
+447,2025-08-09,Camiseta,accesorios,4,65.27,Andrew,20,Femenino,Haiti,261.08,<25,2025-08
+448,2025-02-06,Bolso,calzado,5,57.2,Barry,32,Femenino,Colombia,286.0,25-34,2025-02
+449,2025-06-21,Sombrero,ropa,5,31.03,Christopher,64,Femenino,Saint Kitts and Nevis,155.15,35+,2025-06
+450,2025-03-27,Pantalón,accesorios,1,36.46,Leah,32,Femenino,Greece,36.46,25-34,2025-03
+451,2025-11-16,Chaqueta,accesorios,4,60.44,Ryan,20,Femenino,Barbados,241.76,<25,2025-11
+452,2025-03-15,Chaqueta,ropa,2,24.36,Tina,53,Femenino,Tanzania,48.72,35+,2025-03
+453,2025-04-01,Chaqueta,accesorios,5,37.69,John,62,Femenino,New Caledonia,188.45,35+,2025-04
+454,2025-11-16,Sandalias,accesorios,4,49.0,Jason,25,Masculino,Nepal,196.0,25-34,2025-11
+455,2025-11-17,Chaqueta,accesorios,5,12.57,Lawrence,19,Masculino,Morocco,62.85,<25,2025-11
+456,2025-11-03,Bolso,calzado,1,96.97,Philip,55,Femenino,Isle of Man,96.97,35+,2025-11
+457,2025-11-13,Zapatos,calzado,5,34.31,Jessica,63,Masculino,Taiwan,171.55,35+,2025-11
+458,2025-04-23,Sombrero,calzado,5,48.38,Duane,39,Femenino,Samoa,241.9,35+,2025-04
+459,2025-11-14,Pantalón,ropa,1,14.35,Christopher,29,Masculino,Nigeria,14.35,25-34,2025-11
+460,2025-08-26,Chaqueta,accesorios,2,42.52,Richard,68,Femenino,Pakistan,85.04,35+,2025-08
+461,2025-11-27,Sandalias,calzado,3,62.16,Laura,59,Masculino,India,186.48,35+,2025-11
+462,2025-09-19,Bufanda,ropa,2,17.92,Derrick,36,Femenino,El Salvador,35.84,35+,2025-09
+463,2025-03-06,Zapatos,calzado,1,98.77,Zachary,62,Femenino,Guam,98.77,35+,2025-03
+464,2025-06-17,Sandalias,calzado,3,21.77,William,21,Masculino,British Virgin Islands,65.31,<25,2025-06
+465,2025-12-28,Sombrero,accesorios,3,36.79,Christopher,57,Femenino,Saint Barthelemy,110.37,35+,2025-12
+466,2025-03-15,Camiseta,ropa,1,38.57,William,59,Masculino,Netherlands,38.57,35+,2025-03
+467,2025-08-03,Chaqueta,ropa,5,43.48,Anthony,27,Masculino,Cayman Islands,217.39999999999998,25-34,2025-08
+468,2025-05-01,Camiseta,accesorios,4,23.83,Kelly,23,Femenino,British Indian Ocean Territory (Chagos Archipelago),95.32,<25,2025-05
+469,2025-05-26,Chaqueta,accesorios,2,99.77,Amanda,41,Masculino,United States Minor Outlying Islands,199.54,35+,2025-05
+470,2025-10-09,Sombrero,accesorios,1,94.11,Karen,60,Masculino,United States Minor Outlying Islands,94.11,35+,2025-10
+471,2025-02-09,Sandalias,ropa,1,26.96,Michelle,20,Masculino,Saint Barthelemy,26.96,<25,2025-02
+472,2025-01-08,Chaqueta,accesorios,5,47.04,Donna,59,Masculino,San Marino,235.2,35+,2025-01
+473,2025-02-21,Zapatos,calzado,4,34.31,Kevin,67,Masculino,Rwanda,137.24,35+,2025-02
+474,2025-02-28,Pantalón,ropa,5,83.26,Brian,31,Masculino,Vanuatu,416.3,25-34,2025-02
+475,2025-04-06,Bolso,accesorios,3,45.21,Thomas,68,Masculino,Barbados,135.63,35+,2025-04
+476,2025-12-29,Zapatos,calzado,2,98.84,Anthony,60,Femenino,Philippines,197.68,35+,2025-12
+477,2025-12-14,Chaqueta,calzado,5,72.15,Antonio,32,Femenino,Korea,360.75,25-34,2025-12
+478,2025-11-29,Chaqueta,calzado,5,12.96,Matthew,50,Femenino,American Samoa,64.80000000000001,35+,2025-11
+479,2025-10-26,Sandalias,ropa,1,86.16,Jessica,46,Femenino,Solomon Islands,86.16,35+,2025-10
+480,2025-07-07,Bolso,calzado,3,53.62,Ryan,49,Masculino,Venezuela,160.85999999999999,35+,2025-07
+481,2025-03-28,Chaqueta,accesorios,2,77.15,Charles,59,Femenino,Gambia,154.3,35+,2025-03
+482,2025-02-20,Camiseta,accesorios,2,66.81,Janet,53,Masculino,Svalbard & Jan Mayen Islands,133.62,35+,2025-02
+483,2025-07-20,Chaqueta,accesorios,3,63.32,Julie,51,Masculino,Guernsey,189.96,35+,2025-07
+484,2025-01-21,Bolso,calzado,4,77.67,Kevin,30,Femenino,Bosnia and Herzegovina,310.68,25-34,2025-01
+485,2025-01-18,Chaqueta,ropa,4,17.57,Grace,32,Femenino,Morocco,70.28,25-34,2025-01
+486,2025-08-12,Bufanda,calzado,4,80.65,Julia,69,Masculino,Latvia,322.6,35+,2025-08
+487,2025-08-10,Bufanda,ropa,1,95.71,Kathleen,67,Masculino,Japan,95.71,35+,2025-08
+488,2025-09-16,Sombrero,calzado,5,23.29,Micheal,34,Masculino,Andorra,116.44999999999999,25-34,2025-09
+489,2025-08-13,Pantalón,calzado,3,43.2,Randall,66,Masculino,Fiji,129.60000000000002,35+,2025-08
+490,2025-09-22,Zapatos,accesorios,1,78.75,Maureen,21,Femenino,Cambodia,78.75,<25,2025-09
+491,2025-08-31,Pantalón,calzado,4,71.21,Kelly,29,Femenino,Bangladesh,284.84,25-34,2025-08
+492,2025-06-05,Camiseta,calzado,4,76.65,Daniel,19,Masculino,Tanzania,306.6,<25,2025-06
+493,2025-10-11,Bolso,ropa,2,75.3,Linda,68,Femenino,Chad,150.6,35+,2025-10
+494,2025-05-19,Sandalias,ropa,3,70.47,Kevin,65,Masculino,United States of America,211.41,35+,2025-05
+495,2025-03-29,Zapatos,ropa,5,16.98,James,31,Masculino,Norway,84.9,25-34,2025-03
+496,2025-08-01,Chaqueta,ropa,2,54.85,Natalie,55,Femenino,Burundi,109.7,35+,2025-08
+497,2025-03-22,Sombrero,accesorios,5,52.57,Yolanda,26,Masculino,Bosnia and Herzegovina,262.85,25-34,2025-03
+498,2025-11-13,Bufanda,accesorios,2,16.14,Jonathan,61,Femenino,Western Sahara,32.28,35+,2025-11
+499,2025-01-24,Sandalias,ropa,3,71.79,Jason,53,Femenino,Burundi,215.37,35+,2025-01
+500,2025-05-06,Pantalón,accesorios,4,49.06,Christy,61,Femenino,Kiribati,196.24,35+,2025-05
+501,2025-10-06,Sombrero,calzado,4,92.26,Andrew,22,Femenino,Oman,369.04,<25,2025-10
+502,2025-03-06,Sombrero,ropa,5,73.7,Eric,45,Femenino,Oman,368.5,35+,2025-03
+503,2025-04-14,Camiseta,accesorios,5,26.79,Scott,70,Masculino,Trinidad and Tobago,133.95,35+,2025-04
+504,2025-10-21,Zapatos,ropa,4,38.74,Ross,59,Masculino,United Kingdom,154.96,35+,2025-10
+505,2025-03-14,Camiseta,accesorios,2,40.2,Christine,26,Masculino,Lithuania,80.4,25-34,2025-03
+506,2025-06-29,Sombrero,ropa,5,41.49,Brittney,25,Femenino,Spain,207.45000000000002,25-34,2025-06
+507,2025-01-11,Bufanda,accesorios,3,58.88,Marissa,26,Masculino,Guam,176.64000000000001,25-34,2025-01
+508,2025-08-27,Pantalón,calzado,5,78.19,Christopher,38,Masculino,Serbia,390.95,35+,2025-08
+509,2025-08-01,Bufanda,ropa,3,55.46,Kevin,66,Masculino,Haiti,166.38,35+,2025-08
+510,2025-11-02,Zapatos,calzado,1,59.4,Lisa,55,Masculino,Canada,59.4,35+,2025-11
+511,2025-11-11,Camiseta,calzado,4,87.72,Angela,40,Femenino,Uzbekistan,350.88,35+,2025-11
+512,2025-12-21,Zapatos,accesorios,1,75.48,Brianna,41,Masculino,Macao,75.48,35+,2025-12
+513,2025-02-27,Pantalón,ropa,4,40.74,Ian,67,Femenino,India,162.96,35+,2025-02
+514,2025-11-25,Bufanda,accesorios,1,82.05,David,30,Masculino,Grenada,82.05,25-34,2025-11
+515,2025-02-20,Camiseta,ropa,3,63.38,Timothy,62,Masculino,Turkey,190.14000000000001,35+,2025-02
+516,2025-07-01,Zapatos,accesorios,2,39.48,Jennifer,25,Femenino,Marshall Islands,78.96,25-34,2025-07
+517,2025-04-27,Zapatos,calzado,5,46.24,Michael,62,Masculino,Comoros,231.20000000000002,35+,2025-04
+518,2025-02-17,Bolso,accesorios,2,31.66,Jerry,55,Femenino,Jamaica,63.32,35+,2025-02
+519,2025-12-22,Camiseta,calzado,5,53.54,Jennifer,24,Masculino,Tonga,267.7,<25,2025-12
+520,2025-06-07,Bolso,ropa,5,98.83,John,38,Masculino,India,494.15,35+,2025-06
+521,2025-06-04,Pantalón,ropa,1,49.47,Miguel,43,Femenino,Ukraine,49.47,35+,2025-06
+522,2025-12-12,Chaqueta,calzado,1,78.83,Marc,33,Femenino,Isle of Man,78.83,25-34,2025-12
+523,2025-11-27,Bufanda,ropa,2,52.78,Brenda,32,Masculino,Korea,105.56,25-34,2025-11
+524,2025-12-30,Pantalón,accesorios,5,20.28,Jeremy,46,Femenino,Honduras,101.4,35+,2025-12
+525,2025-11-23,Sandalias,ropa,3,18.37,Dylan,43,Masculino,United States Minor Outlying Islands,55.11,35+,2025-11
+526,2025-04-20,Sombrero,ropa,3,97.15,Brittany,34,Femenino,Cyprus,291.45000000000005,25-34,2025-04
+527,2025-10-18,Chaqueta,accesorios,4,68.17,Becky,37,Femenino,Bolivia,272.68,35+,2025-10
+528,2025-03-11,Sandalias,accesorios,5,80.85,William,69,Masculino,North Macedonia,404.25,35+,2025-03
+529,2025-09-14,Camiseta,calzado,5,22.48,Rebecca,45,Femenino,Armenia,112.4,35+,2025-09
+530,2025-09-22,Bolso,accesorios,5,24.27,Jacob,47,Masculino,French Polynesia,121.35,35+,2025-09
+531,2025-01-05,Sandalias,ropa,5,79.84,Theresa,50,Masculino,Netherlands Antilles,399.20000000000005,35+,2025-01
+532,2025-05-21,Chaqueta,ropa,3,48.7,John,66,Masculino,South Georgia and the South Sandwich Islands,146.10000000000002,35+,2025-05
+533,2025-11-11,Bolso,accesorios,5,16.44,Michael,28,Masculino,Bahamas,82.2,25-34,2025-11
+534,2025-01-08,Bufanda,calzado,3,78.43,Nathan,51,Masculino,Cook Islands,235.29000000000002,35+,2025-01
+535,2025-11-04,Bufanda,accesorios,1,79.24,Richard,50,Femenino,Pitcairn Islands,79.24,35+,2025-11
+536,2025-06-16,Zapatos,accesorios,1,85.62,Kimberly,64,Masculino,Bhutan,85.62,35+,2025-06
+537,2025-11-26,Bufanda,accesorios,2,53.21,Sharon,61,Masculino,Dominican Republic,106.42,35+,2025-11
+538,2025-09-07,Camiseta,accesorios,5,44.59,Caitlin,43,Masculino,Guinea-Bissau,222.95000000000002,35+,2025-09
+539,2025-12-07,Sombrero,accesorios,4,33.5,Amber,41,Masculino,Ecuador,134.0,35+,2025-12
+540,2025-03-29,Sombrero,ropa,3,73.31,Kimberly,19,Femenino,San Marino,219.93,<25,2025-03
+541,2025-06-28,Bufanda,accesorios,2,50.66,Joel,52,Femenino,Marshall Islands,101.32,35+,2025-06
+542,2025-11-03,Bufanda,ropa,4,93.17,Sharon,52,Femenino,Uganda,372.68,35+,2025-11
+543,2025-07-17,Zapatos,ropa,1,64.24,Christopher,68,Masculino,Latvia,64.24,35+,2025-07
+544,2025-05-03,Bufanda,calzado,5,18.32,Lindsey,24,Masculino,Kenya,91.6,<25,2025-05
+545,2025-04-21,Bolso,accesorios,2,95.08,Jeremy,36,Masculino,Madagascar,190.16,35+,2025-04
+546,2025-02-16,Sombrero,ropa,1,69.91,Lisa,61,Masculino,Tunisia,69.91,35+,2025-02
+547,2025-05-25,Sandalias,ropa,3,21.19,Ricky,29,Masculino,Dominica,63.57000000000001,25-34,2025-05
+548,2025-02-11,Bolso,calzado,2,15.93,Eileen,30,Femenino,Heard Island and McDonald Islands,31.86,25-34,2025-02
+549,2025-10-22,Sombrero,ropa,4,31.0,Jillian,64,Masculino,Swaziland,124.0,35+,2025-10
+550,2025-10-30,Bolso,accesorios,1,32.72,George,70,Femenino,Jersey,32.72,35+,2025-10
+551,2025-06-21,Sandalias,calzado,3,59.51,Emily,26,Masculino,Iran,178.53,25-34,2025-06
+552,2025-06-02,Camiseta,ropa,2,96.42,Alexis,24,Femenino,Swaziland,192.84,<25,2025-06
+553,2025-12-03,Sombrero,accesorios,4,56.87,Jennifer,52,Femenino,Antigua and Barbuda,227.48,35+,2025-12
+554,2025-04-11,Sombrero,accesorios,1,32.31,Rhonda,45,Masculino,Slovenia,32.31,35+,2025-04
+555,2025-10-11,Chaqueta,calzado,5,26.52,Arthur,51,Femenino,Denmark,132.6,35+,2025-10
+556,2025-06-09,Bufanda,ropa,3,56.78,Cindy,63,Femenino,Haiti,170.34,35+,2025-06
+557,2025-12-07,Bufanda,ropa,1,75.85,Laurie,24,Femenino,Vietnam,75.85,<25,2025-12
+558,2025-12-15,Camiseta,calzado,1,83.47,Michael,22,Masculino,Germany,83.47,<25,2025-12
+559,2025-12-24,Bolso,calzado,5,36.9,Kristina,25,Femenino,Poland,184.5,25-34,2025-12
+560,2025-09-27,Sombrero,calzado,3,94.27,Richard,43,Femenino,Montenegro,282.81,35+,2025-09
+561,2025-07-15,Zapatos,accesorios,4,82.83,Jo,42,Femenino,Burundi,331.32,35+,2025-07
+562,2025-01-10,Sandalias,ropa,4,55.12,Joshua,30,Masculino,Niue,220.48,25-34,2025-01
+563,2025-09-20,Camiseta,calzado,4,97.42,Tara,53,Femenino,Cameroon,389.68,35+,2025-09
+564,2025-01-21,Sombrero,calzado,4,90.12,Brian,47,Femenino,Mali,360.48,35+,2025-01
+565,2025-09-12,Pantalón,ropa,5,92.46,Richard,69,Femenino,Rwanda,462.29999999999995,35+,2025-09
+566,2025-08-01,Camiseta,calzado,1,23.52,William,54,Masculino,Vanuatu,23.52,35+,2025-08
+567,2025-02-21,Sandalias,ropa,3,84.85,Michael,58,Masculino,Madagascar,254.54999999999998,35+,2025-02
+568,2025-06-29,Chaqueta,accesorios,2,27.24,Bradley,44,Femenino,Congo,54.48,35+,2025-06
+569,2025-06-12,Sombrero,calzado,1,38.41,Mia,29,Masculino,Bahamas,38.41,25-34,2025-06
+570,2025-06-20,Pantalón,ropa,1,93.76,Sue,43,Femenino,Congo,93.76,35+,2025-06
+571,2025-02-16,Zapatos,calzado,3,62.06,Jasmine,26,Femenino,Tonga,186.18,25-34,2025-02
+572,2025-02-10,Sombrero,ropa,5,94.17,Janice,26,Femenino,Palau,470.85,25-34,2025-02
+573,2025-07-14,Pantalón,calzado,1,25.45,Dana,36,Femenino,Algeria,25.45,35+,2025-07
+574,2025-03-01,Bufanda,ropa,5,56.65,Justin,48,Femenino,Dominican Republic,283.25,35+,2025-03
+575,2025-10-03,Pantalón,calzado,3,29.93,Jennifer,68,Masculino,Saudi Arabia,89.78999999999999,35+,2025-10
+576,2025-03-01,Sombrero,calzado,5,95.41,Kelli,58,Femenino,Malta,477.04999999999995,35+,2025-03
+577,2025-09-25,Bufanda,calzado,4,92.91,Joseph,69,Masculino,Uruguay,371.64,35+,2025-09
+578,2025-09-19,Pantalón,calzado,4,37.3,Veronica,51,Masculino,Venezuela,149.2,35+,2025-09
+579,2025-10-25,Bolso,ropa,3,82.75,Jonathan,47,Masculino,Burundi,248.25,35+,2025-10
+580,2025-08-12,Bolso,calzado,4,33.75,Brenda,42,Femenino,Serbia,135.0,35+,2025-08
+581,2025-06-28,Camiseta,accesorios,3,34.37,Shawn,39,Femenino,Brunei Darussalam,103.10999999999999,35+,2025-06
+582,2025-01-17,Pantalón,accesorios,1,28.78,Erica,24,Femenino,Mozambique,28.78,<25,2025-01
+583,2025-12-01,Zapatos,ropa,4,10.27,Megan,49,Femenino,Cuba,41.08,35+,2025-12
+584,2025-05-06,Zapatos,accesorios,5,11.01,Sarah,19,Femenino,Finland,55.05,<25,2025-05
+585,2025-10-11,Camiseta,calzado,4,64.34,Michael,29,Femenino,Iraq,257.36,25-34,2025-10
+586,2025-07-20,Bolso,ropa,3,70.74,Sarah,63,Masculino,Gibraltar,212.21999999999997,35+,2025-07
+587,2025-07-03,Camiseta,ropa,3,76.6,Vickie,53,Femenino,Bouvet Island (Bouvetoya),229.79999999999998,35+,2025-07
+588,2025-10-14,Bufanda,calzado,2,56.38,Amanda,68,Femenino,Benin,112.76,35+,2025-10
+589,2025-03-03,Pantalón,calzado,3,62.93,Tina,64,Femenino,Brunei Darussalam,188.79,35+,2025-03
+590,2025-09-22,Bolso,ropa,2,59.29,Erika,69,Masculino,Portugal,118.58,35+,2025-09
+591,2025-04-25,Zapatos,calzado,1,36.76,Gregory,25,Femenino,Guernsey,36.76,25-34,2025-04
+592,2025-11-30,Pantalón,accesorios,1,26.91,Tammy,20,Masculino,Hong Kong,26.91,<25,2025-11
+593,2025-11-25,Pantalón,calzado,1,76.85,Andrew,30,Femenino,Russian Federation,76.85,25-34,2025-11
+594,2025-09-19,Sandalias,ropa,3,28.39,Steven,51,Masculino,Saint Barthelemy,85.17,35+,2025-09
+595,2025-11-07,Camiseta,ropa,4,62.72,Lisa,34,Femenino,Ghana,250.88,25-34,2025-11
+596,2025-10-20,Sandalias,accesorios,1,26.9,Karen,51,Femenino,Reunion,26.9,35+,2025-10
+597,2025-03-10,Sombrero,accesorios,3,50.86,James,56,Femenino,Afghanistan,152.57999999999998,35+,2025-03
+598,2025-05-21,Sombrero,calzado,4,87.58,Timothy,52,Femenino,Sudan,350.32,35+,2025-05
+599,2025-09-09,Sombrero,ropa,2,95.52,Natalie,50,Femenino,Brazil,191.04,35+,2025-09
+600,2025-03-12,Pantalón,calzado,3,99.83,Ryan,46,Masculino,Tuvalu,299.49,35+,2025-03
+601,2025-04-30,Bufanda,calzado,3,41.42,Julie,61,Femenino,Cape Verde,124.26,35+,2025-04
+602,2025-01-03,Pantalón,calzado,1,70.0,Beth,64,Masculino,Senegal,70.0,35+,2025-01
+603,2025-11-29,Bolso,ropa,4,80.19,Jerry,67,Masculino,Saint Lucia,320.76,35+,2025-11
+604,2025-02-08,Camiseta,accesorios,4,13.25,Greg,57,Masculino,Egypt,53.0,35+,2025-02
+605,2025-02-09,Bufanda,ropa,1,12.24,Marc,58,Masculino,Western Sahara,12.24,35+,2025-02
+606,2025-02-15,Bolso,ropa,5,14.46,Kelsey,33,Femenino,Serbia,72.30000000000001,25-34,2025-02
+607,2025-02-26,Sandalias,accesorios,2,20.19,Harold,68,Masculino,Iraq,40.38,35+,2025-02
+608,2025-10-26,Bolso,accesorios,2,72.21,Lynn,18,Femenino,Slovenia,144.42,<25,2025-10
+609,2025-07-15,Bufanda,accesorios,2,64.3,Kaitlin,70,Femenino,Saint Helena,128.6,35+,2025-07
+610,2025-08-01,Pantalón,accesorios,5,89.25,Charles,31,Masculino,Cocos (Keeling) Islands,446.25,25-34,2025-08
+611,2025-11-03,Pantalón,accesorios,1,53.14,Michelle,63,Masculino,Saint Helena,53.14,35+,2025-11
+612,2025-02-26,Sombrero,accesorios,5,65.04,Sarah,31,Masculino,Bosnia and Herzegovina,325.20000000000005,25-34,2025-02
+613,2025-10-29,Pantalón,accesorios,3,63.7,Whitney,59,Masculino,India,191.10000000000002,35+,2025-10
+614,2025-02-04,Zapatos,calzado,5,35.97,Joshua,69,Masculino,Faroe Islands,179.85,35+,2025-02
+615,2025-02-06,Sandalias,ropa,4,45.88,Robin,45,Femenino,Mozambique,183.52,35+,2025-02
+616,2025-09-17,Bufanda,calzado,5,40.85,Lee,61,Femenino,Zimbabwe,204.25,35+,2025-09
+617,2025-01-18,Camiseta,accesorios,5,36.48,Katie,20,Femenino,Burundi,182.39999999999998,<25,2025-01
+618,2025-09-18,Sandalias,accesorios,5,90.92,Kelly,53,Masculino,Slovakia (Slovak Republic),454.6,35+,2025-09
+619,2025-05-15,Pantalón,calzado,5,87.35,William,19,Femenino,Liberia,436.75,<25,2025-05
+620,2025-03-04,Chaqueta,accesorios,2,40.53,Jacob,54,Femenino,Finland,81.06,35+,2025-03
+621,2025-05-26,Pantalón,calzado,5,43.03,Martin,22,Femenino,Northern Mariana Islands,215.15,<25,2025-05
+622,2025-06-17,Chaqueta,ropa,5,67.23,Kathleen,19,Femenino,Palestinian Territory,336.15000000000003,<25,2025-06
+623,2025-08-05,Bufanda,ropa,2,94.8,Jeremy,63,Femenino,Bermuda,189.6,35+,2025-08
+624,2025-02-02,Pantalón,ropa,4,15.38,Patricia,33,Masculino,South Africa,61.52,25-34,2025-02
+625,2025-01-19,Sombrero,ropa,1,64.52,Catherine,30,Masculino,Ecuador,64.52,25-34,2025-01
+626,2025-10-23,Pantalón,ropa,2,76.16,Courtney,39,Femenino,Cook Islands,152.32,35+,2025-10
+627,2025-07-11,Sandalias,accesorios,2,19.35,Albert,47,Masculino,Portugal,38.7,35+,2025-07
+628,2025-02-15,Bufanda,ropa,1,82.04,Joanna,41,Masculino,Saint Vincent and the Grenadines,82.04,35+,2025-02
+629,2025-11-04,Bufanda,accesorios,3,36.18,Matthew,36,Femenino,Luxembourg,108.53999999999999,35+,2025-11
+630,2025-09-17,Bolso,accesorios,1,19.13,Nicole,63,Masculino,Libyan Arab Jamahiriya,19.13,35+,2025-09
+631,2025-06-23,Sombrero,accesorios,2,49.59,Morgan,23,Femenino,Colombia,99.18,<25,2025-06
+632,2025-05-25,Zapatos,calzado,5,25.06,Joe,65,Femenino,Botswana,125.3,35+,2025-05
+633,2025-04-10,Zapatos,accesorios,5,29.01,Gregory,64,Femenino,Togo,145.05,35+,2025-04
+634,2025-12-15,Sombrero,ropa,2,46.82,Amy,32,Masculino,China,93.64,25-34,2025-12
+635,2025-07-02,Chaqueta,ropa,4,45.56,Carolyn,20,Masculino,Jordan,182.24,<25,2025-07
+636,2025-07-21,Pantalón,accesorios,2,57.79,Jonathan,18,Femenino,Oman,115.58,<25,2025-07
+637,2025-07-09,Sombrero,calzado,4,91.06,Elizabeth,31,Masculino,Panama,364.24,25-34,2025-07
+638,2025-05-07,Bufanda,accesorios,1,87.52,Mary,69,Femenino,Armenia,87.52,35+,2025-05
+639,2025-07-14,Chaqueta,ropa,4,38.11,Sandy,63,Masculino,Myanmar,152.44,35+,2025-07
+640,2025-09-22,Pantalón,accesorios,5,66.98,Holly,47,Masculino,Qatar,334.90000000000003,35+,2025-09
+641,2025-12-19,Bolso,ropa,1,14.7,Erin,69,Femenino,Brazil,14.7,35+,2025-12
+642,2025-11-22,Sombrero,ropa,3,92.99,Jennifer,19,Masculino,Trinidad and Tobago,278.96999999999997,<25,2025-11
+643,2025-03-24,Pantalón,calzado,5,31.68,Teresa,65,Femenino,Congo,158.4,35+,2025-03
+644,2025-01-12,Chaqueta,ropa,5,90.81,Casey,39,Masculino,Brunei Darussalam,454.05,35+,2025-01
+645,2025-06-29,Sandalias,calzado,5,99.35,Jason,29,Femenino,Algeria,496.75,25-34,2025-06
+646,2025-01-19,Bolso,calzado,4,60.76,Thomas,18,Masculino,Uzbekistan,243.04,<25,2025-01
+647,2025-01-28,Chaqueta,accesorios,2,10.17,Angela,22,Masculino,Cambodia,20.34,<25,2025-01
+648,2025-03-03,Pantalón,accesorios,3,88.59,Clinton,32,Femenino,Falkland Islands (Malvinas),265.77,25-34,2025-03
+649,2025-09-27,Bolso,calzado,4,87.76,Kevin,31,Masculino,Burundi,351.04,25-34,2025-09
+650,2025-03-15,Sandalias,ropa,2,45.41,Keith,18,Femenino,Guadeloupe,90.82,<25,2025-03
+651,2025-07-10,Sombrero,ropa,4,40.81,Nicole,23,Masculino,New Zealand,163.24,<25,2025-07
+652,2025-09-22,Sandalias,accesorios,5,75.8,Lisa,62,Femenino,Falkland Islands (Malvinas),379.0,35+,2025-09
+653,2025-01-27,Camiseta,ropa,3,16.68,Edward,64,Masculino,Morocco,50.04,35+,2025-01
+654,2025-04-07,Zapatos,ropa,4,41.19,Danny,67,Masculino,Wallis and Futuna,164.76,35+,2025-04
+655,2025-11-30,Pantalón,ropa,4,49.62,Charles,40,Masculino,Faroe Islands,198.48,35+,2025-11
+656,2025-02-16,Zapatos,accesorios,4,79.85,Kenneth,34,Masculino,Pitcairn Islands,319.4,25-34,2025-02
+657,2025-03-11,Bolso,calzado,1,48.45,Troy,51,Masculino,Cayman Islands,48.45,35+,2025-03
+658,2025-10-21,Bolso,ropa,5,46.47,James,38,Femenino,Holy See (Vatican City State),232.35,35+,2025-10
+659,2025-04-04,Zapatos,calzado,2,40.29,Tammy,29,Masculino,Slovakia (Slovak Republic),80.58,25-34,2025-04
+660,2025-04-28,Sandalias,calzado,3,27.19,Laura,64,Masculino,China,81.57000000000001,35+,2025-04
+661,2025-12-21,Pantalón,calzado,4,75.86,Adam,70,Masculino,Reunion,303.44,35+,2025-12
+662,2025-04-05,Bufanda,ropa,2,25.86,Eric,45,Femenino,Tunisia,51.72,35+,2025-04
+663,2025-11-20,Bolso,calzado,1,64.02,William,40,Femenino,France,64.02,35+,2025-11
+664,2025-04-06,Camiseta,ropa,1,26.79,Ashley,65,Masculino,Svalbard & Jan Mayen Islands,26.79,35+,2025-04
+665,2025-10-09,Sombrero,calzado,5,73.66,Jo,27,Masculino,Zambia,368.29999999999995,25-34,2025-10
+666,2025-11-19,Zapatos,calzado,2,20.21,Nancy,56,Masculino,Netherlands,40.42,35+,2025-11
+667,2025-12-08,Sandalias,ropa,4,43.68,Pamela,42,Masculino,Lesotho,174.72,35+,2025-12
+668,2025-11-29,Sandalias,accesorios,4,50.95,Margaret,48,Masculino,Comoros,203.8,35+,2025-11
+669,2025-06-29,Bufanda,calzado,2,65.51,Andrew,20,Masculino,Puerto Rico,131.02,<25,2025-06
+670,2025-08-12,Camiseta,accesorios,5,63.32,Andrew,25,Masculino,Niger,316.6,25-34,2025-08
+671,2025-05-10,Camiseta,accesorios,2,73.36,Katelyn,39,Masculino,Antarctica (the territory South of 60 deg S),146.72,35+,2025-05
+672,2025-10-24,Pantalón,ropa,4,18.15,Melissa,42,Masculino,Ghana,72.6,35+,2025-10
+673,2025-10-15,Chaqueta,calzado,5,82.57,Teresa,56,Masculino,Nepal,412.84999999999997,35+,2025-10
+674,2025-07-03,Zapatos,accesorios,2,92.6,Kara,44,Femenino,Chad,185.2,35+,2025-07
+675,2025-07-25,Bolso,calzado,1,15.7,Mario,35,Masculino,Papua New Guinea,15.7,25-34,2025-07
+676,2025-02-21,Sandalias,accesorios,2,17.43,Tammy,49,Femenino,Venezuela,34.86,35+,2025-02
+677,2025-02-05,Bolso,ropa,1,36.98,Mary,23,Masculino,Cape Verde,36.98,<25,2025-02
+678,2025-02-10,Bufanda,calzado,2,22.96,Lisa,29,Masculino,Christmas Island,45.92,25-34,2025-02
+679,2025-09-06,Chaqueta,calzado,2,22.86,Ronald,62,Femenino,Cyprus,45.72,35+,2025-09
+680,2025-12-10,Bufanda,ropa,3,71.83,Mitchell,29,Masculino,Bahamas,215.49,25-34,2025-12
+681,2025-07-23,Bufanda,accesorios,4,63.67,Theresa,52,Masculino,Cameroon,254.68,35+,2025-07
+682,2025-08-03,Pantalón,ropa,2,29.38,Kristy,45,Femenino,Saint Martin,58.76,35+,2025-08
+683,2025-03-29,Camiseta,ropa,2,55.96,Matthew,70,Masculino,Central African Republic,111.92,35+,2025-03
+684,2025-07-18,Bolso,accesorios,3,20.2,Charlene,51,Masculino,Burundi,60.599999999999994,35+,2025-07
+685,2025-09-06,Bufanda,accesorios,4,31.07,Robert,58,Masculino,Bermuda,124.28,35+,2025-09
+686,2025-03-20,Sandalias,calzado,3,95.56,Christina,57,Masculino,Saint Martin,286.68,35+,2025-03
+687,2025-03-03,Bolso,ropa,5,65.84,Kyle,70,Femenino,Greece,329.20000000000005,35+,2025-03
+688,2025-06-18,Bufanda,ropa,5,49.28,Matthew,32,Femenino,Japan,246.4,25-34,2025-06
+689,2025-05-26,Zapatos,accesorios,2,63.97,Megan,43,Femenino,Vietnam,127.94,35+,2025-05
+690,2025-09-06,Zapatos,accesorios,5,45.4,Emily,60,Masculino,Bouvet Island (Bouvetoya),227.0,35+,2025-09
+691,2025-02-27,Pantalón,calzado,1,29.92,Laura,52,Femenino,Suriname,29.92,35+,2025-02
+692,2025-01-29,Bolso,accesorios,3,77.82,Jennifer,65,Femenino,Afghanistan,233.45999999999998,35+,2025-01
+693,2025-08-30,Camiseta,calzado,4,85.88,Matthew,63,Femenino,Norway,343.52,35+,2025-08
+694,2025-09-09,Sombrero,ropa,5,69.67,Nicole,59,Masculino,Canada,348.35,35+,2025-09
+695,2025-10-27,Bolso,calzado,1,84.86,James,56,Femenino,Denmark,84.86,35+,2025-10
+696,2025-02-08,Pantalón,accesorios,3,83.36,Molly,44,Femenino,Isle of Man,250.07999999999998,35+,2025-02
+697,2025-06-09,Pantalón,accesorios,4,20.18,Andrea,21,Masculino,Vietnam,80.72,<25,2025-06
+698,2025-12-18,Bufanda,calzado,1,78.96,Dawn,28,Masculino,Christmas Island,78.96,25-34,2025-12
+699,2025-01-12,Camiseta,ropa,5,63.19,Stacy,43,Femenino,Saint Helena,315.95,35+,2025-01
+700,2025-05-04,Sombrero,calzado,4,64.98,Travis,39,Masculino,Rwanda,259.92,35+,2025-05
+701,2025-04-08,Sandalias,ropa,4,87.76,Derrick,50,Femenino,Belize,351.04,35+,2025-04
+702,2025-06-08,Bolso,accesorios,1,57.01,Shelly,35,Masculino,Bermuda,57.01,25-34,2025-06
+703,2025-01-27,Chaqueta,accesorios,4,59.24,Pamela,39,Femenino,Slovenia,236.96,35+,2025-01
+704,2025-12-10,Zapatos,accesorios,5,99.96,Diana,46,Masculino,Saint Vincent and the Grenadines,499.79999999999995,35+,2025-12
+705,2025-06-21,Chaqueta,calzado,1,21.08,Gregg,50,Masculino,Congo,21.08,35+,2025-06
+706,2025-01-20,Chaqueta,calzado,4,70.08,Michael,62,Femenino,Faroe Islands,280.32,35+,2025-01
+707,2025-03-02,Bolso,accesorios,2,96.32,Diane,40,Masculino,Chad,192.64,35+,2025-03
+708,2025-03-03,Bufanda,calzado,3,99.47,Jeanette,55,Masculino,Dominican Republic,298.40999999999997,35+,2025-03
+709,2025-02-15,Zapatos,ropa,4,66.63,James,46,Masculino,Sao Tome and Principe,266.52,35+,2025-02
+710,2025-04-29,Pantalón,accesorios,1,58.75,Shawn,67,Femenino,Swaziland,58.75,35+,2025-04
+711,2025-02-18,Sandalias,ropa,1,92.82,Dawn,64,Femenino,El Salvador,92.82,35+,2025-02
+712,2025-05-04,Zapatos,accesorios,4,89.54,Justin,25,Masculino,Paraguay,358.16,25-34,2025-05
+713,2025-09-04,Sombrero,calzado,2,28.65,Christian,57,Femenino,Cameroon,57.3,35+,2025-09
+714,2025-05-24,Sandalias,calzado,4,12.82,Jamie,47,Femenino,France,51.28,35+,2025-05
+715,2025-11-15,Zapatos,accesorios,4,14.09,Randall,46,Femenino,Antarctica (the territory South of 60 deg S),56.36,35+,2025-11
+716,2025-05-05,Sombrero,ropa,2,58.03,Yvette,65,Femenino,Saint Martin,116.06,35+,2025-05
+717,2025-07-19,Chaqueta,calzado,5,56.56,Jessica,64,Femenino,Ukraine,282.8,35+,2025-07
+718,2025-12-08,Sandalias,accesorios,3,82.73,Ashley,56,Masculino,Peru,248.19,35+,2025-12
+719,2025-04-22,Sombrero,ropa,1,93.17,Susan,50,Femenino,Malawi,93.17,35+,2025-04
+720,2025-03-08,Bufanda,ropa,2,15.47,Aaron,45,Femenino,Mayotte,30.94,35+,2025-03
+721,2025-09-14,Bolso,accesorios,2,56.62,Samantha,38,Femenino,Benin,113.24,35+,2025-09
+722,2025-02-10,Camiseta,calzado,3,46.2,Melissa,29,Masculino,Canada,138.60000000000002,25-34,2025-02
+723,2025-11-04,Sandalias,calzado,1,94.01,Dennis,54,Femenino,United States Minor Outlying Islands,94.01,35+,2025-11
+724,2025-01-26,Bolso,accesorios,1,76.76,Kyle,30,Masculino,Cayman Islands,76.76,25-34,2025-01
+725,2025-01-26,Sombrero,ropa,2,85.91,Jordan,25,Femenino,Chad,171.82,25-34,2025-01
+726,2025-11-09,Chaqueta,calzado,3,94.83,James,59,Masculino,Bouvet Island (Bouvetoya),284.49,35+,2025-11
+727,2025-11-06,Camiseta,calzado,4,65.2,Virginia,26,Masculino,Tunisia,260.8,25-34,2025-11
+728,2025-05-09,Pantalón,accesorios,2,85.21,Isabel,50,Femenino,Namibia,170.42,35+,2025-05
+729,2025-08-11,Bufanda,ropa,5,38.63,Jean,42,Femenino,North Macedonia,193.15,35+,2025-08
+730,2025-03-23,Sandalias,ropa,2,22.18,Daniel,65,Femenino,Rwanda,44.36,35+,2025-03
+731,2025-06-07,Zapatos,calzado,5,96.45,Mario,24,Femenino,Saint Lucia,482.25,<25,2025-06
+732,2025-09-14,Camiseta,accesorios,4,47.67,Jessica,33,Masculino,Mexico,190.68,25-34,2025-09
+733,2025-02-06,Zapatos,ropa,1,39.56,Barbara,18,Femenino,Turkey,39.56,<25,2025-02
+734,2025-04-06,Pantalón,ropa,1,76.69,Anthony,62,Masculino,United Kingdom,76.69,35+,2025-04
+735,2025-12-19,Bufanda,calzado,1,67.33,Andrew,25,Masculino,Swaziland,67.33,25-34,2025-12
+736,2025-11-07,Bufanda,calzado,5,11.22,Valerie,19,Femenino,Tajikistan,56.1,<25,2025-11
+737,2025-02-26,Camiseta,ropa,2,22.29,Shawn,42,Femenino,Burundi,44.58,35+,2025-02
+738,2025-01-28,Camiseta,accesorios,2,28.77,Kelly,47,Masculino,Romania,57.54,35+,2025-01
+739,2025-03-08,Bolso,accesorios,2,46.14,Leah,69,Masculino,Malawi,92.28,35+,2025-03
+740,2025-08-29,Zapatos,accesorios,5,13.69,Javier,70,Masculino,Guam,68.45,35+,2025-08
+741,2025-10-30,Sombrero,accesorios,5,35.86,Amanda,53,Masculino,San Marino,179.3,35+,2025-10
+742,2025-03-03,Zapatos,ropa,4,85.54,Scott,34,Femenino,Gabon,342.16,25-34,2025-03
+743,2025-09-13,Sombrero,accesorios,1,62.28,Ashley,25,Femenino,Cape Verde,62.28,25-34,2025-09
+744,2025-10-15,Bufanda,ropa,2,56.93,Teresa,21,Femenino,Maldives,113.86,<25,2025-10
+745,2025-12-08,Chaqueta,accesorios,4,70.3,Robert,41,Femenino,Antarctica (the territory South of 60 deg S),281.2,35+,2025-12
+746,2025-07-05,Sandalias,ropa,1,79.97,Janet,64,Femenino,United States Virgin Islands,79.97,35+,2025-07
+747,2025-11-27,Pantalón,calzado,3,40.32,Jim,56,Femenino,Antarctica (the territory South of 60 deg S),120.96000000000001,35+,2025-11
+748,2025-10-11,Camiseta,calzado,2,98.71,Christopher,31,Femenino,Myanmar,197.42,25-34,2025-10
+749,2025-04-12,Zapatos,calzado,4,74.53,Angela,61,Femenino,United States Virgin Islands,298.12,35+,2025-04
+750,2025-06-12,Bolso,ropa,3,32.51,Amber,26,Femenino,Ghana,97.53,25-34,2025-06
+751,2025-09-06,Chaqueta,accesorios,5,51.39,Juan,44,Masculino,Kuwait,256.95,35+,2025-09
+752,2025-07-19,Chaqueta,ropa,1,22.42,Valerie,27,Masculino,Bolivia,22.42,25-34,2025-07
+753,2025-07-25,Bolso,calzado,4,81.33,Aaron,61,Femenino,Falkland Islands (Malvinas),325.32,35+,2025-07
+754,2025-06-10,Pantalón,ropa,3,66.48,Troy,26,Masculino,Maldives,199.44,25-34,2025-06
+755,2025-05-20,Pantalón,accesorios,5,58.19,Cristina,32,Masculino,Syrian Arab Republic,290.95,25-34,2025-05
+756,2025-12-26,Chaqueta,ropa,3,10.97,Joshua,31,Masculino,Turkmenistan,32.910000000000004,25-34,2025-12
+757,2025-02-24,Sandalias,ropa,5,37.41,Tracy,61,Masculino,Israel,187.04999999999998,35+,2025-02
+758,2025-02-26,Chaqueta,calzado,3,27.31,Johnny,61,Femenino,Congo,81.92999999999999,35+,2025-02
+759,2025-04-11,Sandalias,accesorios,1,68.78,Susan,27,Femenino,Turks and Caicos Islands,68.78,25-34,2025-04
+760,2025-05-08,Pantalón,accesorios,1,92.7,Virginia,53,Femenino,Mauritius,92.7,35+,2025-05
+761,2025-05-07,Bufanda,calzado,1,10.87,Mark,67,Femenino,Jersey,10.87,35+,2025-05
+762,2025-04-09,Camiseta,ropa,2,61.58,Ashley,24,Masculino,Bouvet Island (Bouvetoya),123.16,<25,2025-04
+763,2025-02-17,Chaqueta,ropa,5,19.22,Eric,44,Masculino,Switzerland,96.1,35+,2025-02
+764,2025-10-18,Bufanda,calzado,4,60.01,Tony,52,Femenino,Tunisia,240.04,35+,2025-10
+765,2025-09-15,Bufanda,ropa,1,23.97,Alicia,33,Masculino,Grenada,23.97,25-34,2025-09
+766,2025-08-11,Bolso,ropa,1,87.96,Micheal,28,Masculino,Botswana,87.96,25-34,2025-08
+767,2025-02-25,Chaqueta,calzado,5,44.62,Joy,31,Femenino,Slovenia,223.1,25-34,2025-02
+768,2025-09-18,Bufanda,calzado,2,31.48,Vanessa,32,Masculino,Uruguay,62.96,25-34,2025-09
+769,2025-12-22,Chaqueta,ropa,2,19.77,Kelli,51,Masculino,Costa Rica,39.54,35+,2025-12
+770,2025-02-20,Camiseta,accesorios,5,52.56,Peter,40,Femenino,South Africa,262.8,35+,2025-02
+771,2025-01-23,Sombrero,ropa,1,29.47,Rebecca,68,Masculino,Tajikistan,29.47,35+,2025-01
+772,2025-01-08,Camiseta,ropa,3,71.54,Jeff,39,Masculino,Austria,214.62,35+,2025-01
+773,2025-05-23,Pantalón,calzado,3,12.94,Robert,24,Masculino,Malawi,38.82,<25,2025-05
+774,2025-03-09,Bolso,ropa,3,23.12,Allen,44,Femenino,Mexico,69.36,35+,2025-03
+775,2025-02-26,Sandalias,calzado,1,78.24,Mark,69,Masculino,Guinea-Bissau,78.24,35+,2025-02
+776,2025-12-29,Camiseta,accesorios,3,81.22,Wendy,70,Femenino,Iran,243.66,35+,2025-12
+777,2025-02-19,Camiseta,ropa,4,15.96,Alexander,49,Femenino,Malawi,63.84,35+,2025-02
+778,2025-05-09,Pantalón,ropa,3,74.58,Michael,67,Masculino,Lesotho,223.74,35+,2025-05
+779,2025-03-17,Zapatos,calzado,5,88.42,Christopher,61,Femenino,Palestinian Territory,442.1,35+,2025-03
+780,2025-02-09,Camiseta,accesorios,4,60.84,Jeffrey,28,Femenino,Guinea-Bissau,243.36,25-34,2025-02
+781,2025-09-26,Sandalias,accesorios,5,32.74,Casey,24,Femenino,Svalbard & Jan Mayen Islands,163.70000000000002,<25,2025-09
+782,2025-03-01,Chaqueta,ropa,5,26.53,Diana,28,Femenino,Russian Federation,132.65,25-34,2025-03
+783,2025-12-07,Chaqueta,calzado,3,74.64,Deborah,26,Femenino,New Caledonia,223.92000000000002,25-34,2025-12
+784,2025-09-05,Zapatos,ropa,2,96.34,James,42,Femenino,Algeria,192.68,35+,2025-09
+785,2025-03-02,Bolso,ropa,5,19.26,Kelli,24,Masculino,Yemen,96.30000000000001,<25,2025-03
+786,2025-04-10,Pantalón,ropa,4,46.97,Joseph,68,Masculino,Netherlands,187.88,35+,2025-04
+787,2025-09-14,Chaqueta,accesorios,1,51.75,Logan,61,Femenino,Palestinian Territory,51.75,35+,2025-09
+788,2025-12-25,Sandalias,accesorios,3,70.85,Tyler,19,Masculino,Cyprus,212.54999999999998,<25,2025-12
+789,2025-01-12,Sombrero,calzado,1,15.79,Tiffany,62,Masculino,Venezuela,15.79,35+,2025-01
+790,2025-05-01,Camiseta,accesorios,2,36.02,Micheal,37,Masculino,Pakistan,72.04,35+,2025-05
+791,2025-12-28,Bolso,calzado,4,59.26,Lisa,48,Femenino,Kuwait,237.04,35+,2025-12
+792,2025-11-01,Sandalias,calzado,5,91.66,Joseph,34,Femenino,Switzerland,458.29999999999995,25-34,2025-11
+793,2025-08-12,Sandalias,calzado,4,97.23,Christine,47,Femenino,Armenia,388.92,35+,2025-08
+794,2025-09-05,Sombrero,ropa,3,88.04,Francis,18,Femenino,Antigua and Barbuda,264.12,<25,2025-09
+795,2025-08-18,Chaqueta,calzado,2,32.21,Malik,19,Femenino,Namibia,64.42,<25,2025-08
+796,2025-10-03,Zapatos,calzado,1,88.94,Marilyn,60,Masculino,Afghanistan,88.94,35+,2025-10
+797,2025-11-29,Camiseta,accesorios,2,22.23,Betty,59,Femenino,Eritrea,44.46,35+,2025-11
+798,2025-05-19,Sombrero,calzado,4,20.57,Michelle,30,Femenino,Cuba,82.28,25-34,2025-05
+799,2025-03-14,Bufanda,ropa,4,29.28,John,56,Femenino,Argentina,117.12,35+,2025-03
+800,2025-02-03,Sandalias,calzado,5,53.11,Tara,58,Femenino,Switzerland,265.55,35+,2025-02
+801,2025-03-21,Sandalias,ropa,5,67.6,Katherine,24,Femenino,Jersey,338.0,<25,2025-03
+802,2025-04-08,Sandalias,ropa,1,86.31,Andrew,42,Femenino,Thailand,86.31,35+,2025-04
+803,2025-08-27,Sombrero,calzado,1,15.86,James,53,Masculino,Mauritius,15.86,35+,2025-08
+804,2025-09-04,Bolso,calzado,2,44.65,Bradley,50,Masculino,Venezuela,89.3,35+,2025-09
+805,2025-06-28,Sombrero,ropa,1,67.91,Mary,28,Femenino,Kazakhstan,67.91,25-34,2025-06
+806,2025-04-23,Sandalias,ropa,5,69.38,Shannon,18,Masculino,Japan,346.9,<25,2025-04
+807,2025-11-27,Chaqueta,ropa,2,24.43,Tammy,69,Femenino,Tonga,48.86,35+,2025-11
+808,2025-02-26,Chaqueta,calzado,1,67.9,Tammy,35,Masculino,Kyrgyz Republic,67.9,25-34,2025-02
+809,2025-03-16,Pantalón,ropa,1,18.95,Paul,52,Masculino,Dominican Republic,18.95,35+,2025-03
+810,2025-12-29,Pantalón,calzado,5,64.33,William,55,Masculino,Uzbekistan,321.65,35+,2025-12
+811,2025-12-03,Chaqueta,accesorios,1,36.99,Ashley,36,Masculino,Tuvalu,36.99,35+,2025-12
+812,2025-06-21,Camiseta,ropa,2,38.68,Javier,37,Masculino,Belize,77.36,35+,2025-06
+813,2025-04-20,Zapatos,accesorios,3,89.17,Justin,47,Masculino,South Georgia and the South Sandwich Islands,267.51,35+,2025-04
+814,2025-03-22,Sandalias,calzado,1,79.89,Eric,27,Femenino,Sierra Leone,79.89,25-34,2025-03
+815,2025-10-17,Bufanda,accesorios,4,13.9,David,33,Masculino,Sri Lanka,55.6,25-34,2025-10
+816,2025-11-18,Zapatos,accesorios,4,76.11,Amy,57,Masculino,Vanuatu,304.44,35+,2025-11
+817,2025-11-29,Chaqueta,ropa,3,13.19,Leslie,62,Femenino,Seychelles,39.57,35+,2025-11
+818,2025-12-14,Sombrero,ropa,3,69.03,Loretta,41,Masculino,Malawi,207.09,35+,2025-12
+819,2025-01-20,Chaqueta,accesorios,3,90.67,Emily,31,Masculino,Panama,272.01,25-34,2025-01
+820,2025-08-24,Sandalias,calzado,1,12.02,Valerie,49,Masculino,Isle of Man,12.02,35+,2025-08
+821,2025-01-24,Chaqueta,ropa,2,78.48,Daniel,42,Masculino,Switzerland,156.96,35+,2025-01
+822,2025-04-11,Sandalias,calzado,1,69.98,Michael,23,Femenino,United States Minor Outlying Islands,69.98,<25,2025-04
+823,2025-09-10,Bolso,ropa,4,33.64,Karen,46,Masculino,Saint Lucia,134.56,35+,2025-09
+824,2025-12-29,Bolso,accesorios,4,58.23,Carolyn,65,Femenino,Argentina,232.92,35+,2025-12
+825,2025-11-17,Camiseta,accesorios,4,52.43,Debbie,26,Masculino,Ecuador,209.72,25-34,2025-11
+826,2025-08-05,Camiseta,accesorios,4,67.47,Jason,24,Femenino,Turks and Caicos Islands,269.88,<25,2025-08
+827,2025-01-24,Sombrero,ropa,4,61.32,Jennifer,35,Masculino,Norway,245.28,25-34,2025-01
+828,2025-03-15,Chaqueta,calzado,5,45.04,Hayden,56,Masculino,Burundi,225.2,35+,2025-03
+829,2025-09-08,Zapatos,accesorios,1,71.54,Deanna,18,Masculino,Indonesia,71.54,<25,2025-09
+830,2025-08-07,Pantalón,ropa,5,15.55,Kelly,45,Masculino,United States of America,77.75,35+,2025-08
+831,2025-11-21,Camiseta,accesorios,3,16.64,Elizabeth,20,Masculino,El Salvador,49.92,<25,2025-11
+832,2025-05-03,Camiseta,accesorios,1,30.27,Marilyn,40,Femenino,Pakistan,30.27,35+,2025-05
+833,2025-10-19,Bolso,calzado,4,58.66,Robert,67,Femenino,Burkina Faso,234.64,35+,2025-10
+834,2025-05-19,Camiseta,accesorios,3,38.57,Courtney,36,Masculino,Yemen,115.71000000000001,35+,2025-05
+835,2025-06-12,Zapatos,accesorios,1,84.09,Sandra,24,Femenino,Falkland Islands (Malvinas),84.09,<25,2025-06
+836,2025-08-12,Bufanda,accesorios,4,97.56,Peter,53,Femenino,Palau,390.24,35+,2025-08
+837,2025-12-12,Bolso,ropa,5,16.82,Janet,51,Masculino,Saint Kitts and Nevis,84.1,35+,2025-12
+838,2025-03-17,Bolso,calzado,2,31.37,Zachary,25,Masculino,Netherlands Antilles,62.74,25-34,2025-03
+839,2025-04-11,Camiseta,accesorios,4,82.83,Kelsey,63,Masculino,British Indian Ocean Territory (Chagos Archipelago),331.32,35+,2025-04
+840,2025-08-09,Zapatos,ropa,4,85.77,Kristin,51,Masculino,Liechtenstein,343.08,35+,2025-08
+841,2025-07-09,Zapatos,accesorios,3,55.61,Kyle,44,Masculino,Romania,166.82999999999998,35+,2025-07
+842,2025-12-10,Bolso,accesorios,5,49.61,Lindsay,41,Femenino,Algeria,248.05,35+,2025-12
+843,2025-04-27,Zapatos,accesorios,3,59.2,Courtney,57,Femenino,Eritrea,177.60000000000002,35+,2025-04
+844,2025-11-25,Sombrero,accesorios,1,88.91,Kristen,37,Masculino,Bouvet Island (Bouvetoya),88.91,35+,2025-11
+845,2025-07-16,Bolso,accesorios,1,47.34,Patricia,48,Masculino,Myanmar,47.34,35+,2025-07
+846,2025-11-20,Camiseta,ropa,2,47.66,Vincent,20,Femenino,Estonia,95.32,<25,2025-11
+847,2025-06-11,Bolso,accesorios,2,83.52,Daniel,70,Femenino,Qatar,167.04,35+,2025-06
+848,2025-09-01,Bufanda,calzado,4,64.31,Beth,57,Femenino,Turkey,257.24,35+,2025-09
+849,2025-12-11,Bolso,accesorios,2,85.88,Bradley,44,Femenino,Togo,171.76,35+,2025-12
+850,2025-08-19,Bolso,calzado,1,79.1,Chris,52,Femenino,Malawi,79.1,35+,2025-08
+851,2025-03-11,Zapatos,ropa,1,25.31,Mark,57,Femenino,Austria,25.31,35+,2025-03
+852,2025-04-01,Pantalón,accesorios,4,16.69,Jacob,67,Femenino,Cape Verde,66.76,35+,2025-04
+853,2025-10-21,Zapatos,ropa,4,46.86,Mary,50,Femenino,Moldova,187.44,35+,2025-10
+854,2025-01-01,Chaqueta,calzado,3,25.69,Larry,22,Femenino,South Georgia and the South Sandwich Islands,77.07000000000001,<25,2025-01
+855,2025-09-30,Chaqueta,calzado,2,77.89,Keith,56,Masculino,Brazil,155.78,35+,2025-09
+856,2025-06-13,Zapatos,ropa,1,51.85,Michael,30,Masculino,Niue,51.85,25-34,2025-06
+857,2025-09-30,Pantalón,ropa,4,71.17,Tony,41,Femenino,Kenya,284.68,35+,2025-09
+858,2025-01-02,Pantalón,accesorios,5,38.11,James,46,Femenino,Ghana,190.55,35+,2025-01
+859,2025-06-18,Bolso,ropa,3,52.46,Michelle,29,Masculino,Kuwait,157.38,25-34,2025-06
+860,2025-12-03,Zapatos,ropa,5,60.65,William,52,Femenino,Comoros,303.25,35+,2025-12
+861,2025-07-31,Zapatos,accesorios,4,10.27,Randy,45,Femenino,San Marino,41.08,35+,2025-07
+862,2025-03-14,Bolso,calzado,4,50.05,Jacqueline,64,Masculino,Angola,200.2,35+,2025-03
+863,2025-05-27,Sandalias,accesorios,4,91.38,Edward,57,Masculino,Bahamas,365.52,35+,2025-05
+864,2025-11-02,Bolso,calzado,3,25.92,Jeffrey,47,Masculino,Mayotte,77.76,35+,2025-11
+865,2025-05-24,Sombrero,accesorios,5,63.31,Jason,47,Masculino,Yemen,316.55,35+,2025-05
+866,2025-01-20,Zapatos,calzado,2,69.35,Cheryl,51,Femenino,Saint Lucia,138.7,35+,2025-01
+867,2025-04-06,Bufanda,ropa,3,33.21,Adam,37,Femenino,Zimbabwe,99.63,35+,2025-04
+868,2025-08-14,Zapatos,calzado,5,29.34,David,63,Masculino,Germany,146.7,35+,2025-08
+869,2025-04-11,Camiseta,ropa,4,94.95,Christine,28,Femenino,Papua New Guinea,379.8,25-34,2025-04
+870,2025-09-29,Pantalón,accesorios,1,46.26,Dawn,65,Masculino,Turkmenistan,46.26,35+,2025-09
+871,2025-10-02,Bolso,accesorios,1,16.06,Barbara,19,Masculino,Swaziland,16.06,<25,2025-10
+872,2025-01-17,Sombrero,calzado,5,96.13,Charles,24,Femenino,Djibouti,480.65,<25,2025-01
+873,2025-12-24,Pantalón,ropa,1,64.1,Michael,64,Masculino,Zambia,64.1,35+,2025-12
+874,2025-11-05,Sombrero,accesorios,4,52.27,Jessica,37,Femenino,Isle of Man,209.08,35+,2025-11
+875,2025-10-23,Sombrero,ropa,2,91.13,Walter,36,Masculino,Guatemala,182.26,35+,2025-10
+876,2025-02-01,Bufanda,accesorios,5,55.04,Stephanie,58,Femenino,Saint Lucia,275.2,35+,2025-02
+877,2025-03-23,Chaqueta,ropa,3,52.62,Amy,26,Femenino,Falkland Islands (Malvinas),157.85999999999999,25-34,2025-03
+878,2025-03-05,Chaqueta,calzado,1,88.14,Catherine,34,Masculino,Belarus,88.14,25-34,2025-03
+879,2025-01-25,Camiseta,accesorios,5,95.38,Deborah,44,Masculino,Lesotho,476.9,35+,2025-01
+880,2025-03-27,Bufanda,ropa,2,62.71,Donna,21,Masculino,Australia,125.42,<25,2025-03
+881,2025-04-22,Camiseta,calzado,2,51.92,Shannon,56,Masculino,Guinea,103.84,35+,2025-04
+882,2025-01-07,Zapatos,accesorios,3,61.12,Michelle,53,Femenino,Russian Federation,183.35999999999999,35+,2025-01
+883,2025-03-04,Sombrero,accesorios,3,82.52,Jessica,61,Masculino,Georgia,247.56,35+,2025-03
+884,2025-06-18,Bufanda,ropa,2,68.28,Martin,18,Masculino,Cook Islands,136.56,<25,2025-06
+885,2025-05-31,Pantalón,calzado,3,44.97,James,41,Femenino,Tuvalu,134.91,35+,2025-05
+886,2025-03-15,Bufanda,ropa,2,41.11,Tammy,28,Femenino,Cuba,82.22,25-34,2025-03
+887,2025-12-05,Sombrero,accesorios,4,11.28,Robert,28,Masculino,New Zealand,45.12,25-34,2025-12
+888,2025-12-01,Sombrero,calzado,5,34.59,Andrew,29,Femenino,Colombia,172.95000000000002,25-34,2025-12
+889,2025-08-31,Sandalias,calzado,2,29.01,Yvonne,41,Masculino,Congo,58.02,35+,2025-08
+890,2025-07-03,Bufanda,accesorios,1,16.83,Sonia,69,Femenino,Tonga,16.83,35+,2025-07
+891,2025-01-08,Chaqueta,calzado,2,28.47,Jeffrey,30,Masculino,British Virgin Islands,56.94,25-34,2025-01
+892,2025-11-11,Bufanda,calzado,2,97.66,David,36,Femenino,French Polynesia,195.32,35+,2025-11
+893,2025-07-30,Camiseta,ropa,2,54.04,Nicole,67,Masculino,Jordan,108.08,35+,2025-07
+894,2025-03-04,Bufanda,calzado,5,63.05,Lisa,25,Femenino,Holy See (Vatican City State),315.25,25-34,2025-03
+895,2025-10-18,Sandalias,ropa,3,39.46,Jennifer,70,Masculino,Tajikistan,118.38,35+,2025-10
+896,2025-05-20,Camiseta,ropa,5,17.28,Gabriel,58,Femenino,Iraq,86.4,35+,2025-05
+897,2025-01-13,Sandalias,accesorios,2,46.16,Jason,39,Femenino,China,92.32,35+,2025-01
+898,2025-01-30,Bufanda,ropa,4,64.24,Diamond,38,Femenino,Nicaragua,256.96,35+,2025-01
+899,2025-07-22,Pantalón,ropa,4,16.5,Paul,37,Masculino,Taiwan,66.0,35+,2025-07
+900,2025-03-31,Zapatos,calzado,5,11.83,Sharon,25,Femenino,Albania,59.15,25-34,2025-03
+901,2025-04-07,Pantalón,calzado,4,75.5,Edward,28,Femenino,Angola,302.0,25-34,2025-04
+902,2025-05-14,Camiseta,calzado,1,92.57,Stephanie,48,Femenino,Costa Rica,92.57,35+,2025-05
+903,2025-08-03,Chaqueta,calzado,2,93.48,Tara,22,Femenino,Kiribati,186.96,<25,2025-08
+904,2025-01-24,Pantalón,calzado,4,62.74,Juan,37,Masculino,Gabon,250.96,35+,2025-01
+905,2025-09-01,Camiseta,calzado,3,18.03,Samuel,26,Masculino,Philippines,54.09,25-34,2025-09
+906,2025-02-15,Camiseta,ropa,1,26.67,Nathan,41,Femenino,Guatemala,26.67,35+,2025-02
+907,2025-06-10,Bufanda,accesorios,4,10.91,Rebecca,27,Femenino,Bangladesh,43.64,25-34,2025-06
+908,2025-10-14,Bufanda,ropa,4,44.97,Steve,23,Masculino,Slovakia (Slovak Republic),179.88,<25,2025-10
+909,2025-08-03,Pantalón,ropa,5,39.68,Donald,31,Masculino,Ireland,198.4,25-34,2025-08
+910,2025-08-03,Pantalón,ropa,4,95.48,Howard,43,Masculino,Burundi,381.92,35+,2025-08
+911,2025-04-02,Bolso,calzado,4,31.25,Angela,24,Femenino,Kiribati,125.0,<25,2025-04
+912,2025-06-15,Bolso,calzado,3,51.17,Sarah,47,Masculino,French Guiana,153.51,35+,2025-06
+913,2025-05-15,Bolso,accesorios,5,40.71,David,69,Femenino,Argentina,203.55,35+,2025-05
+914,2025-06-11,Sandalias,accesorios,3,85.69,Ivan,33,Femenino,Morocco,257.07,25-34,2025-06
+915,2025-02-14,Zapatos,calzado,1,35.31,Joseph,59,Femenino,Cayman Islands,35.31,35+,2025-02
+916,2025-09-05,Sandalias,ropa,4,63.29,Peggy,56,Masculino,Portugal,253.16,35+,2025-09
+917,2025-06-26,Bolso,ropa,2,21.49,Molly,58,Femenino,Cook Islands,42.98,35+,2025-06
+918,2025-02-20,Bufanda,ropa,2,40.6,Richard,26,Femenino,Holy See (Vatican City State),81.2,25-34,2025-02
+919,2025-07-11,Pantalón,accesorios,3,43.58,Megan,52,Masculino,Rwanda,130.74,35+,2025-07
+920,2025-01-17,Sandalias,calzado,2,57.77,Courtney,41,Femenino,India,115.54,35+,2025-01
+921,2025-03-21,Zapatos,calzado,4,60.51,Hannah,69,Femenino,Jamaica,242.04,35+,2025-03
+922,2025-02-17,Zapatos,accesorios,5,26.16,Tyler,66,Femenino,Algeria,130.8,35+,2025-02
+923,2025-10-22,Sandalias,calzado,1,30.82,Samuel,57,Masculino,Comoros,30.82,35+,2025-10
+924,2025-01-20,Camiseta,calzado,4,49.99,Vanessa,45,Femenino,Belarus,199.96,35+,2025-01
+925,2025-09-01,Chaqueta,accesorios,3,96.38,Cassie,36,Femenino,Northern Mariana Islands,289.14,35+,2025-09
+926,2025-05-21,Camiseta,calzado,4,17.96,Natasha,46,Femenino,Iceland,71.84,35+,2025-05
+927,2025-05-17,Camiseta,calzado,1,66.45,Kimberly,21,Femenino,Saint Kitts and Nevis,66.45,<25,2025-05
+928,2025-11-22,Sombrero,ropa,5,26.16,Ian,55,Masculino,Poland,130.8,35+,2025-11
+929,2025-03-26,Zapatos,accesorios,2,13.62,Christopher,65,Masculino,Djibouti,27.24,35+,2025-03
+930,2025-06-15,Sombrero,ropa,5,94.11,Angela,53,Masculino,Djibouti,470.55,35+,2025-06
+931,2025-12-08,Sandalias,calzado,5,12.03,Jennifer,63,Masculino,Switzerland,60.15,35+,2025-12
+932,2025-04-18,Bolso,calzado,3,11.7,Katherine,49,Femenino,Russian Federation,35.099999999999994,35+,2025-04
+933,2025-10-30,Sandalias,calzado,4,41.36,Tiffany,49,Femenino,Hungary,165.44,35+,2025-10
+934,2025-01-02,Pantalón,accesorios,5,50.48,Jocelyn,62,Femenino,Luxembourg,252.39999999999998,35+,2025-01
+935,2025-05-01,Camiseta,ropa,1,77.31,Lawrence,59,Femenino,Greece,77.31,35+,2025-05
+936,2025-03-23,Sombrero,calzado,3,49.33,Courtney,49,Masculino,Togo,147.99,35+,2025-03
+937,2025-09-04,Sandalias,calzado,2,34.78,Latoya,48,Masculino,Guatemala,69.56,35+,2025-09
+938,2025-12-14,Camiseta,ropa,5,62.15,Catherine,21,Femenino,Azerbaijan,310.75,<25,2025-12
+939,2025-06-05,Bufanda,ropa,5,12.61,Mary,50,Femenino,Ireland,63.05,35+,2025-06
+940,2025-01-03,Zapatos,calzado,3,61.13,John,54,Femenino,Brazil,183.39000000000001,35+,2025-01
+941,2025-07-21,Zapatos,ropa,2,51.86,Dylan,22,Femenino,Rwanda,103.72,<25,2025-07
+942,2025-07-07,Sombrero,calzado,1,90.46,Linda,47,Masculino,Niger,90.46,35+,2025-07
+943,2025-09-08,Camiseta,accesorios,5,35.7,Adrienne,24,Femenino,Gibraltar,178.5,<25,2025-09
+944,2025-01-11,Bolso,accesorios,1,92.41,Melissa,36,Femenino,South Africa,92.41,35+,2025-01
+945,2025-07-10,Sandalias,ropa,2,58.17,Lisa,47,Femenino,Solomon Islands,116.34,35+,2025-07
+946,2025-11-19,Sombrero,calzado,1,99.52,Holly,55,Femenino,Iceland,99.52,35+,2025-11
+947,2025-06-14,Chaqueta,ropa,2,58.75,Corey,27,Femenino,Iraq,117.5,25-34,2025-06
+948,2025-03-28,Zapatos,accesorios,2,16.11,April,62,Femenino,Serbia,32.22,35+,2025-03
+949,2025-08-23,Sandalias,calzado,2,88.53,Tiffany,47,Masculino,Nauru,177.06,35+,2025-08
+950,2025-06-03,Pantalón,calzado,4,73.95,John,31,Masculino,Bermuda,295.8,25-34,2025-06
+951,2025-06-06,Sandalias,calzado,1,82.37,Robert,50,Femenino,Marshall Islands,82.37,35+,2025-06
+952,2025-12-13,Bufanda,accesorios,3,40.51,James,26,Masculino,Japan,121.53,25-34,2025-12
+953,2025-01-04,Zapatos,calzado,3,78.01,Lauren,47,Masculino,Korea,234.03000000000003,35+,2025-01
+954,2025-05-17,Zapatos,calzado,2,24.35,Amanda,70,Femenino,Saudi Arabia,48.7,35+,2025-05
+955,2025-07-19,Chaqueta,accesorios,4,85.01,Alan,51,Femenino,Guernsey,340.04,35+,2025-07
+956,2025-03-21,Zapatos,calzado,1,63.54,Michael,34,Masculino,British Indian Ocean Territory (Chagos Archipelago),63.54,25-34,2025-03
+957,2025-12-04,Bolso,ropa,1,66.51,Brenda,38,Femenino,Saint Martin,66.51,35+,2025-12
+958,2025-12-07,Bolso,accesorios,2,64.6,Richard,33,Femenino,Nigeria,129.2,25-34,2025-12
+959,2025-10-07,Sandalias,ropa,4,25.7,Larry,20,Masculino,Singapore,102.8,<25,2025-10
+960,2025-06-24,Zapatos,accesorios,4,47.27,Lisa,65,Femenino,Austria,189.08,35+,2025-06
+961,2025-06-21,Sombrero,calzado,5,35.61,Teresa,58,Femenino,Western Sahara,178.05,35+,2025-06
+962,2025-03-31,Pantalón,calzado,1,35.79,Richard,27,Femenino,Peru,35.79,25-34,2025-03
+963,2025-02-26,Chaqueta,ropa,4,87.32,Sarah,35,Femenino,Cote d'Ivoire,349.28,25-34,2025-02
+964,2025-10-05,Sombrero,accesorios,5,14.44,Valerie,62,Masculino,Zimbabwe,72.2,35+,2025-10
+965,2025-09-16,Chaqueta,accesorios,3,63.1,Tonya,70,Masculino,Peru,189.3,35+,2025-09
+966,2025-07-21,Sombrero,ropa,4,90.87,Tracy,21,Femenino,Tajikistan,363.48,<25,2025-07
+967,2025-09-28,Chaqueta,ropa,3,39.48,Heidi,37,Masculino,Bahrain,118.44,35+,2025-09
+968,2025-06-17,Pantalón,calzado,1,47.13,Shannon,52,Femenino,Kazakhstan,47.13,35+,2025-06
+969,2025-12-20,Zapatos,calzado,2,53.87,Carlos,32,Masculino,Sierra Leone,107.74,25-34,2025-12
+970,2025-12-14,Bufanda,calzado,2,80.48,Paul,38,Masculino,Eritrea,160.96,35+,2025-12
+971,2025-09-19,Bolso,calzado,4,79.79,Tiffany,39,Femenino,New Caledonia,319.16,35+,2025-09
+972,2025-08-24,Camiseta,calzado,2,10.69,Christopher,21,Masculino,Myanmar,21.38,<25,2025-08
+973,2025-11-02,Camiseta,calzado,5,87.62,Nancy,18,Masculino,Cote d'Ivoire,438.1,<25,2025-11
+974,2025-02-24,Pantalón,calzado,3,74.1,Tiffany,59,Masculino,Croatia,222.29999999999998,35+,2025-02
+975,2025-03-25,Bufanda,calzado,5,29.65,Stephen,33,Femenino,Saudi Arabia,148.25,25-34,2025-03
+976,2025-03-20,Bolso,accesorios,2,77.7,Jose,37,Masculino,Slovenia,155.4,35+,2025-03
+977,2025-11-22,Sombrero,ropa,2,38.68,Terry,32,Femenino,Moldova,77.36,25-34,2025-11
+978,2025-09-07,Zapatos,accesorios,3,70.79,David,47,Masculino,Haiti,212.37,35+,2025-09
+979,2025-07-28,Zapatos,calzado,1,87.63,Amanda,21,Masculino,Lesotho,87.63,<25,2025-07
+980,2025-01-05,Sandalias,ropa,5,94.66,Marcus,28,Masculino,Lesotho,473.29999999999995,25-34,2025-01
+981,2025-08-26,Zapatos,ropa,1,82.98,John,47,Femenino,Sao Tome and Principe,82.98,35+,2025-08
+982,2025-11-27,Chaqueta,calzado,3,82.91,Adam,51,Masculino,Bermuda,248.73,35+,2025-11
+983,2025-10-28,Sandalias,accesorios,4,65.54,Marissa,68,Femenino,Kuwait,262.16,35+,2025-10
+984,2025-10-31,Bolso,ropa,4,98.72,Stefanie,61,Femenino,Cuba,394.88,35+,2025-10
+985,2025-01-11,Bufanda,accesorios,2,90.78,Caroline,49,Femenino,Sudan,181.56,35+,2025-01
+986,2025-12-15,Zapatos,calzado,5,15.19,David,40,Femenino,Korea,75.95,35+,2025-12
+987,2025-06-13,Bolso,ropa,3,59.24,Donald,32,Masculino,Bolivia,177.72,25-34,2025-06
+988,2025-04-19,Chaqueta,ropa,1,93.27,Christopher,58,Masculino,India,93.27,35+,2025-04
+989,2025-08-31,Bufanda,accesorios,5,29.28,Erica,43,Femenino,Trinidad and Tobago,146.4,35+,2025-08
+990,2025-11-29,Bufanda,ropa,4,59.46,Christopher,31,Femenino,Syrian Arab Republic,237.84,25-34,2025-11
+991,2025-03-13,Pantalón,calzado,1,24.8,Rebecca,67,Femenino,Ireland,24.8,35+,2025-03
+992,2025-12-25,Sombrero,ropa,5,99.92,Connie,30,Femenino,Taiwan,499.6,25-34,2025-12
+993,2025-01-30,Sandalias,calzado,5,84.62,Katie,61,Femenino,Burundi,423.1,35+,2025-01
+994,2025-12-07,Camiseta,accesorios,3,79.54,Theresa,54,Masculino,Mozambique,238.62,35+,2025-12
+995,2025-03-31,Pantalón,calzado,3,10.65,Johnny,54,Masculino,Saint Helena,31.950000000000003,35+,2025-03
+996,2025-11-30,Camiseta,calzado,1,14.04,Kimberly,38,Femenino,Ghana,14.04,35+,2025-11
+997,2025-05-07,Bufanda,ropa,2,95.7,Taylor,46,Femenino,Germany,191.4,35+,2025-05
+998,2025-02-15,Sombrero,accesorios,5,91.4,John,27,Femenino,Cote d'Ivoire,457.0,25-34,2025-02
+999,2025-02-15,Sandalias,calzado,5,64.2,Stefanie,40,Masculino,Cook Islands,321.0,35+,2025-02

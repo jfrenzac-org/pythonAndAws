@@ -8,11 +8,11 @@ first_name
 
 import pandas as pd
 
-datos = pd.read_csv("/root/pythonAndAws/class_4/class_examples/datos.csv")
+datos = pd.read_csv("datos/datos.csv")
 
-columna_1 = datos["first name"]
+columna_1 = datos["first_name"]
 
-new_df = datos[["first name", "age"]]
+new_df = datos[["first_name", "age"]]
 
 columna_1 = datos.first_name
 

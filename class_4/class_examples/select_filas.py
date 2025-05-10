@@ -1,6 +1,6 @@
 import pandas as pd
 
-datos = pd.read_csv("/root/pythonAndAws/class_4/class_examples/datos.csv")
+datos = pd.read_csv("datos/datos.csv")
 
 # Obtener filas usando el método iloc
 fila_1 = datos.iloc[0]
